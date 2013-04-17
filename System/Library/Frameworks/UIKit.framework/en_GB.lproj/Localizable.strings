@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>%1$@ of %2$@</key>
+	<string>%1$@ of %2$@</string>
+	<key>%@ Copies</key>
+	<string>%@ Copies</string>
+	<key>%lu of %lu</key>
+	<string>%lu of %lu</string>
+	<key>1 Copy</key>
+	<string>1 ނަކަލު</string>
+	<key>1_ALBUM_IMAGE</key>
+	<string>1 Photo</string>
+	<key>1_ALBUM_VIDEO</key>
+	<string>1 Video</string>
+	<key>1x</key>
+	<string>1x</string>
+	<key>2x</key>
+	<string>2x</string>
+	<key>A conflict has been detected for this document.</key>
+	<string>A conflict has been detected for this document.</string>
+	<key>ALBUM_IMAGE_COUNT_FORMAT</key>
+	<string>%@ Photos</string>
+	<key>ALBUM_TWO_TYPES_LABEL_CONJUNCTION</key>
+	<string>%@ and %@</string>
+	<key>ALBUM_VIDEO_COUNT_FORMAT</key>
+	<string>%@ Videos</string>
+	<key>Add to Reading List</key>
+	<string>Add to Reading List</string>
+	<key>All Pages</key>
+	<string>All Pages</string>
+	<key>American Express,AMEX</key>
+	<string>American Express,AMEX</string>
+	<key>Assign to Contact[Activity]</key>
+	<string>Assign to Contact</string>
+	<key>AutoFill_IPAD</key>
+	<string>އޮޓޯފުރިހަމަ</string>
+	<key>AutoFill_IPHONE</key>
+	<string>އޮޓޯފުރިހަމަ</string>
+	<key>Back</key>
+	<string>ފަހަތަށް</string>
+	<key>Bold</key>
+	<string>Bold</string>
+	<key>Bookmarks</key>
+	<string>Bookmarks</string>
+	<key>CLEAR_UNDO_ACTION_NAME</key>
+	<string>ފުހެލާ</string>
+	<key>Cancel</key>
+	<string>ކެންސަލް</string>
+	<key>Cancel Printing</key>
+	<string>ޕުރިންޓު ކެންސަލް</string>
+	<key>Cancel java script dialog</key>
+	<string>ކެންސަލް</string>
+	<key>Cancelled</key>
+	<string>ކެންސަލް ވެއްޖެ</string>
+	<key>Cancelling page %@...</key>
+	<string>ސަފުހާ %@ ކެންސަލް ކުރަނީ …</string>
+	<key>Carte Blanche,CarteBlanche</key>
+	<string>Carte Blanche,CarteBlanche</string>
+	<key>Choose Existing</key>
+	<string>Choose Existing</string>
+	<key>Clear</key>
+	<string>ފުހެލާ</string>
+	<key>Clear[Search]</key>
+	<string>ފުހެލާ</string>
+	<key>Configure</key>
+	<string>Configure</string>
+	<key>Contacting Printer...</key>
+	<string>Contacting Printer…</string>
+	<key>Contacts</key>
+	<string>Contacts</string>
+	<key>Copy</key>
+	<string>ނަކަލު</string>
+	<key>Copy Link</key>
+	<string>ނަކަލު</string>
+	<key>Copy[Activity]</key>
+	<string>ނަކަލު</string>
+	<key>Copy[Menu]</key>
+	<string>ނަކަލު</string>
+	<key>Cut</key>
+	<string>ކަނޑާ</string>
+	<key>Define</key>
+	<string>Define</string>
+	<key>Delete</key>
+	<string>ފުހެލާ</string>
+	<key>Delete[Menu]</key>
+	<string>ފުހެލާ</string>
+	<key>Dictation Soon Body</key>
+	<string>New users are being added for Dictation every day. You will receive an alert when you can start
+using Dictation.</string>
+	<key>Dictation Soon OK</key>
+	<string>OK</string>
+	<key>Dictation Soon Title</key>
+	<string>You Can Start Using
+Dictation Soon</string>
+	<key>Dictionary</key>
+	<string>Dictionary</string>
+	<key>Diners Club, Diner's Club, Diners Club International, Diner's Club International</key>
+	<string>Diners Club, Diner's Club, Diners Club International, Diner's Club International</string>
+	<key>Disable</key>
+	<string>Disable</string>
+	<key>Discover,Discover Card</key>
+	<string>Discover,Discover Card</string>
+	<key>Display on TV?</key>
+	<string>Display on TV?</string>
+	<key>Do you want to revert the document "%@" to a previous state?</key>
+	<string>Do you want to revert the document “%@” to a previous state?</string>
+	<key>Do you want to revert this document to a previous state?</key>
+	<string>Do you want to revert this document to a previous state?</string>
+	<key>Dock</key>
+	<string>Dock</string>
+	<key>Dock and Merge</key>
+	<string>Dock and Merge</string>
+	<key>Done</key>
+	<string>ވެއްޖެ</string>
+	<key>Done-dictation</key>
+	<string>ވެއްޖެ</string>
+	<key>Double-sided</key>
+	<string>Double-sided</string>
+	<key>Download dictionary</key>
+	<string>Download dictionary</string>
+	<key>Downloads</key>
+	<string>Downloads</string>
+	<key>Edit</key>
+	<string>ބަދަލު</string>
+	<key>EnRoute,En Route</key>
+	<string>EnRoute,En Route</string>
+	<key>Facebook[Activity]</key>
+	<string>Facebook</string>
+	<key>Failed</key>
+	<string>Failed</string>
+	<key>Failed to Contact Printer</key>
+	<string>Failed to Contact Printer</string>
+	<key>Favorites</key>
+	<string>Favourites</string>
+	<key>Featured</key>
+	<string>Featured</string>
+	<key>Finished</key>
+	<string>Finished</string>
+	<key>History</key>
+	<string>History</string>
+	<key>Hold</key>
+	<string>Hold</string>
+	<key>Ignore</key>
+	<string>Ignore</string>
+	<key>Intl info alert body</key>
+	<string>Tap the globe key once to switch to the last-used keyboard. Continue tapping to access other enabled keyboards. Tap and hold to show all enabled keyboards.</string>
+	<key>Intl info alert title</key>
+	<string>Alternative Keyboards</string>
+	<key>Italics</key>
+	<string>Italics</string>
+	<key>JCB (comma-separated list)</key>
+	<string>JCB</string>
+	<key>JavaScript Action Sheet Title</key>
+	<string>JavaScript</string>
+	<key>Last Opened Version</key>
+	<string>Last Opened Version</string>
+	<key>Last Saved Version</key>
+	<string>Last Saved Version</string>
+	<key>Learn...</key>
+	<string>Learn…</string>
+	<key>Loading</key>
+	<string>Loading</string>
+	<key>Login</key>
+	<string>Login</string>
+	<key>Looking for Printers...</key>
+	<string>Looking for Printers…</string>
+	<key>Mail[Activity]</key>
+	<string>Mail</string>
+	<key>Make Simplified</key>
+	<string>Make Simplified</string>
+	<key>Make Traditional</key>
+	<string>Make Traditional</string>
+	<key>MasterCard,Master Card</key>
+	<string>MasterCard,Master Card</string>
+	<key>Merge</key>
+	<string>Merge</string>
+	<key>Message[Activity]</key>
+	<string>Message</string>
+	<key>More</key>
+	<string>More</string>
+	<key>Most Recent</key>
+	<string>Most Recent</string>
+	<key>Most Viewed</key>
+	<string>Most Viewed</string>
+	<key>Never for this Website</key>
+	<string>Never for this Website</string>
+	<key>Next</key>
+	<string>Next</string>
+	<key>No</key>
+	<string>No</string>
+	<key>No AirPrint Printers Found</key>
+	<string>No AirPrint Printers Found</string>
+	<key>No Documents Waiting</key>
+	<string>No Documents Waiting</string>
+	<key>No Options</key>
+	<string>No Options</string>
+	<key>No Replacements Found</key>
+	<string>No Replacements Found</string>
+	<key>No Results</key>
+	<string>No Results</string>
+	<key>No definition found.</key>
+	<string>No definition found.</string>
+	<key>Not Charging</key>
+	<string>Not Charging</string>
+	<key>Not Now</key>
+	<string>Not Now</string>
+	<key>Nothing to Undo</key>
+	<string>Nothing to Undo</string>
+	<key>OFF</key>
+	<string>އޮފް</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>OK java script dialog</key>
+	<string>OK</string>
+	<key>ON</key>
+	<string>އޮން</string>
+	<key>Off</key>
+	<string>އޮފް</string>
+	<key>Older Version</key>
+	<string>Older Version</string>
+	<key>On</key>
+	<string>އޮން</string>
+	<key>Open In...</key>
+	<string>Open In…</string>
+	<key>Open Link</key>
+	<string>Open</string>
+	<key>Open in %@</key>
+	<string>Open in %@</string>
+	<key>Page %@</key>
+	<string>Page %@</string>
+	<key>Page Range</key>
+	<string>Page Range</string>
+	<key>Pages %@-%@</key>
+	<string>Pages %@–%@</string>
+	<key>Paper</key>
+	<string>Paper</string>
+	<key>Password</key>
+	<string>Password</string>
+	<key>Paste</key>
+	<string>ތަތްކުރޭ</string>
+	<key>Pause</key>
+	<string>Pause</string>
+	<key>Preparing page %@ of %@...</key>
+	<string>Preparing page %@ of %@…</string>
+	<key>Preparing page %@...</key>
+	<string>Preparing page %@…</string>
+	<key>Preparing...</key>
+	<string>Preparing…</string>
+	<key>Previous</key>
+	<string>Previous</string>
+	<key>Print</key>
+	<string>Print</string>
+	<key>Print Order</key>
+	<string>Print Order</string>
+	<key>Print Summary</key>
+	<string>Print Summary</string>
+	<key>Print[Activity]</key>
+	<string>Print</string>
+	<key>Print[Button]</key>
+	<string>Print</string>
+	<key>Printer</key>
+	<string>Printer</string>
+	<key>Printer Available</key>
+	<string>Printer Available</string>
+	<key>Printer Options</key>
+	<string>Printer Options</string>
+	<key>Printing %@ of %@...</key>
+	<string>Printing %@ of %@…</string>
+	<key>Printing page %@...</key>
+	<string>Printing page %@…</string>
+	<key>Printing to "%@"</key>
+	<string>Printing to “%@”</string>
+	<key>Quick Look</key>
+	<string>Quick Look</string>
+	<key>Range</key>
+	<string>Range</string>
+	<key>Recent changes will be saved in your version history.</key>
+	<string>Recent changes will be saved in your version history.</string>
+	<key>Recents</key>
+	<string>Recents</string>
+	<key>Recording</key>
+	<string>Recording</string>
+	<key>Redo</key>
+	<string>Redo</string>
+	<key>Replace...</key>
+	<string>Suggest…</string>
+	<key>Resolve...</key>
+	<string>Resolve…</string>
+	<key>Results</key>
+	<string>Results</string>
+	<key>Revert</key>
+	<string>Revert</string>
+	<key>Safari Forms AutoFill</key>
+	<string>Safari Forms AutoFill</string>
+	<key>Save</key>
+	<string>Save</string>
+	<key>Save %d Images</key>
+	<string>Save %d Images</string>
+	<key>Save Image</key>
+	<string>Save Image</string>
+	<key>Save to Camera Roll</key>
+	<string>Save to Camera Roll</string>
+	<key>Save to Camera Roll[Activity]</key>
+	<string>Save to
+Camera Roll</string>
+	<key>Search</key>
+	<string>ހޯދާ</string>
+	<key>Select</key>
+	<string>ނަގާ</string>
+	<key>Select All</key>
+	<string>އެކީ ނަގާ</string>
+	<key>Select Printer</key>
+	<string>Select Printer</string>
+	<key>Sending to Printer...</key>
+	<string>Sending to Printer…</string>
+	<key>Speak</key>
+	<string>Speak</string>
+	<key>Speak...</key>
+	<string>Speak…</string>
+	<key>Split</key>
+	<string>Split</string>
+	<key>Stopped</key>
+	<string>Stopped</string>
+	<key>Take Photo</key>
+	<string>Take Photo</string>
+	<key>Take Photo or Video</key>
+	<string>Take Photo or Video</string>
+	<key>Take Video</key>
+	<string>Take Video</string>
+	<key>The document "%@" could not be reverted. %@</key>
+	<string>The document “%@” could not be reverted. %@</string>
+	<key>The document "%@" could not be saved. %@</key>
+	<string>The document “%@” could not be saved. %@</string>
+	<key>The document "%@" is password protected.</key>
+	<string>The document ”%@“ is password protected.</string>
+	<key>The document could not be opened with that password.</key>
+	<string>The document could not be opened with that password.</string>
+	<key>The file "%@" has not been modified in a while.</key>
+	<string>The file “%@” has not been modified in a while.</string>
+	<key>The file "%@" is locked.</key>
+	<string>The file “%@” is locked.</string>
+	<key>The file has not been modified in a while.</key>
+	<string>The file has not been modified in a while.</string>
+	<key>The file is locked.</key>
+	<string>The file is locked.</string>
+	<key>This app does not have access to your photos or videos.</key>
+	<string>This app does not have access to your photos or videos.</string>
+	<key>This document is password protected.</key>
+	<string>This document is password protected.</string>
+	<key>This password is different. Would you like to replace the saved password with this one?</key>
+	<string>This password is different. Would you like to replace the saved password with this one?</string>
+	<key>Today</key>
+	<string>Today</string>
+	<key>Top Rated</key>
+	<string>Top Rated</string>
+	<key>Twitter[Activity]</key>
+	<string>Twitter</string>
+	<key>Type...</key>
+	<string>Type…</string>
+	<key>Unable to open this document</key>
+	<string>Unable to open this document</string>
+	<key>Underline</key>
+	<string>Underline</string>
+	<key>Undo</key>
+	<string>Undo</string>
+	<key>Undock</key>
+	<string>Undock</string>
+	<key>Unknown</key>
+	<string>Unknown</string>
+	<key>Unlock</key>
+	<string>Unlock</string>
+	<key>Used to decode the encrypted file that contains non-password data previously entered in web page forms.</key>
+	<string>Used to decode the encrypted file that contains non-password data previously entered in web page forms.</string>
+	<key>Visa</key>
+	<string>Visa</string>
+	<key>Waiting</key>
+	<string>Waiting</string>
+	<key>Weibo[Activity]</key>
+	<string>Weibo</string>
+	<key>Wireless Printing</key>
+	<string>Wireless Printing</string>
+	<key>Would you like to download a dictionary now?</key>
+	<string>Would you like to download a dictionary now?</string>
+	<key>Would you like to save this password?</key>
+	<string>Would you like to save this password?</string>
+	<key>Yes</key>
+	<string>Yes</string>
+	<key>You can enable access in Privacy Settings.</key>
+	<string>You can enable access in Privacy Settings.</string>
+	<key>You can resolve the conflict now, or ignore it. You can access ignored conflicts by browsing all versions.</key>
+	<string>You can resolve the conflict now, or ignore it. You can access ignored conflicts by browsing all versions.</string>
+	<key>You can revert it to the state it was when you last opened it, or browse older versions. If you choose to revert it to a previous state, it will also be unlocked. Recent changes will be saved in your version history.</key>
+	<string>You can revert it to the state it was when you last opened it, or browse older versions. If you choose to revert it to a previous state, it will also be unlocked. Recent changes will be saved in your version history.</string>
+	<key>You can revert it to the state it was when you last opened it, or browse older versions. Recent changes will be saved in your version history.</key>
+	<string>You can revert it to the state it was when you last opened it, or browse older versions. Recent changes will be saved in your version history.</string>
+	<key>You can revert it to the state it was when you last saved it, or browse older versions. If you choose to revert it to a previous state, it will also be unlocked. Recent changes will be saved in your version history.</key>
+	<string>You can revert it to the state it was when you last saved it, or browse older versions. If you choose to revert it to a previous state, it will also be unlocked. Recent changes will be saved in your version history.</string>
+	<key>You can revert it to the state it was when you last saved it, or browse older versions. Recent changes will be saved in your version history.</key>
+	<string>You can revert it to the state it was when you last saved it, or browse older versions. Recent changes will be saved in your version history.</string>
+	<key>You must disable airplane mode to access data.</key>
+	<string>You must disable Airplane Mode to access data.</string>
+	<key>Your changes will be automatically saved if you unlock.</key>
+	<string>Your changes will be automatically saved if you unlock.</string>
+	<key>Your dictionary is downloading.</key>
+	<string>Your dictionary is downloading.</string>
+	<key>Your document cannot be saved.</key>
+	<string>Your document cannot be saved.</string>
+	<key>Your download will resume when you join a WiFi network.</key>
+	<string>Your download will resume when you join a Wi-Fi network.</string>
+	<key>card number,cardnumber,cardnum,ccnum,cc num,creditcardnumber,credit card number,newcreditcardnumber,new credit card number</key>
+	<string>card number,cardnumber,cardnum,ccnum,cc num,creditcardnumber,credit card number,newcreditcardnumber,new credit card number</string>
+	<key>copies</key>
+	<string>copies</string>
+	<key>cvv,cvc,cvc2,cvv2,ccv2,cid,cvn,security code</key>
+	<string>cvv,cvc,cvc2,cvv2,ccv2,cid,cvn,security code</string>
+	<key>document</key>
+	<string>document</string>
+	<key>double-sided</key>
+	<string>double-sided</string>
+	<key>emoji</key>
+	<string>Emoji</string>
+	<key>finished</key>
+	<string>finished</string>
+	<key>hour[legacy]</key>
+	<string>hour</string>
+	<key>hour[plural]</key>
+	<string>hours</string>
+	<key>hour[singular]</key>
+	<string>hour</string>
+	<key>hours[legacy]</key>
+	<string>hours</string>
+	<key>min[legacy]</key>
+	<string>min</string>
+	<key>min[plural]</key>
+	<string>mins</string>
+	<key>min[singular]</key>
+	<string>min</string>
+	<key>mins[legacy]</key>
+	<string>mins</string>
+	<key>printer</key>
+	<string>printer</string>
+	<key>sent</key>
+	<string>sent</string>
+	<key>started</key>
+	<string>started</string>
+	<key>status</key>
+	<string>status</string>
+	<key>to</key>
+	<string>to</string>
+</dict>
+</plist>
