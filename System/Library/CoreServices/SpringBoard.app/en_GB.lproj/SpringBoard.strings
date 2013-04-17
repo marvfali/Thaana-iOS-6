@@ -1,0 +1,928 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>ACCEPT</key>
+	<string>ބަލައިގަނެފިން</string>
+	<key>ACTIVATION_FAILED_BODY</key>
+	<string>މި މައްސަލަ އިތުރަށް ދިމާވެއްޖެނަމަ ޚިދުމަތްދޭ ކުންފުންޏާ ގުޅުއްވާ.</string>
+	<key>ACTIVATION_FAILED_BODY_SUPPORT</key>
+	<string>%@މިމައްސަލަ އިތުރަށް ދިމާވާނަމަ ޚިދުމަތްދޭ ކުންފުންޏަށް  އެހެން ފޯނަކުން ގުޅުއްވާ.</string>
+	<key>ACTIVATION_FAILED_IGNORE_BUTTON</key>
+	<string>ދޫކޮއްލާ</string>
+	<key>ACTIVATION_FAILED_RETRY_BUTTON</key>
+	<string>އަދި މަސައްކަތްކޮއްލައްވާ</string>
+	<key>ACTIVATION_FAILED_TITLE</key>
+	<string>އައިފޯން އެކްޓިވޭޓް ނުވޭ</string>
+	<key>ACTIVATION_REQUIRED</key>
+	<string>އެކްޓިވޭޓްކުރަންޖެހޭ</string>
+	<key>AFTER_CLTM_SHUTDOWN_BODY_IPAD</key>
+	<string>ހޫނުގަދަވުމުން އައިޕެޑް ނިއްވާލަނީ.</string>
+	<key>AFTER_CLTM_SHUTDOWN_BODY_IPHONE</key>
+	<string>ހޫނުގަދަވުމުން އައިފޯން ނިއްވާލަނީ.</string>
+	<key>AFTER_CLTM_SHUTDOWN_BODY_IPOD</key>
+	<string>ހޫނުގަދަވުމުން އައިޕޮޑް ނިއްވާލަނީ.</string>
+	<key>AIRPLANE_CELL_PROMPT</key>
+	<string>ޑާޓާ ޚިދުމަތް ލިބިގަތުމަށް މަތިންދާބޯޓް މޯޑް ނިއްވާލާ.</string>
+	<key>AIRPLANE_CELL_PROMPT_SMS</key>
+	<string>މެސެޖު ފޮނުވާ ލިބިގަތުމަށް މަތިންދާބޯޓު މޯޑް ނިއްވާލާ.</string>
+	<key>AIRPLANE_DATA_OK</key>
+	<string>ރަނގަޅު</string>
+	<key>AIRPLANE_DATA_PROMPT</key>
+	<string>ޑާޓާ ޚިދުމަތް ލިބިގަތުމަށް މަތިންދާބޯޓު މޯޑު ނިއްވާލާ ނުވަތަ ވައިފައި ހުޅުވާ.</string>
+	<key>AIRPLANE_DATA_PROMPT_NO_WIFI</key>
+	<string>ޑާޓާ ޚިދުމަތް ލިބިގަތުމަށް މަތިންދާބޯޓު މޯޑު ހުޅުވާ.</string>
+	<key>AIRPLANE_DATA_PROMPT_WLAN</key>
+	<string>ޑާޓާ ޚިދުމަތް ލިބިގަތުމަށް މަތިންދާބޯޓު މޯޑު ނިއްވާލާ.</string>
+	<key>AIRPLANE_DATA_SETTINGS</key>
+	<string>ސެޓިންގްސް</string>
+	<key>ALARM_OTHER_TIMEZONE_FORMAT</key>
+	<string>%1$@ (%2$@)</string>
+	<key>ALL_PENDING_DOWNLOADS_REMOVED_BODY</key>
+	<string>ކޮންޕިޔުޓަރުގައިވާ އައިޓިޔުންގައި ފަށާފައިވާ ޑައުންލޯޑްތައް ނިމިފައި.</string>
+	<key>ALL_PENDING_DOWNLOADS_REMOVED_OK</key>
+	<string>ދޫކޮއްލާ</string>
+	<key>ALL_PENDING_DOWNLOADS_REMOVED_TITLE</key>
+	<string>ޑައުންލޯޑްކޮށް ނިމިފައި.</string>
+	<key>ALPHANUMERIC_PASSCODE_CANCEL</key>
+	<string>ކެންސަލް</string>
+	<key>ALPHANUMERIC_PASSCODE_OK</key>
+	<string>ރަނގަޅު</string>
+	<key>APPLICATION_SWITCHER_CANCEL</key>
+	<string>ކެންސަލް</string>
+	<key>APPLICATION_SWITCHER_QUITAPP</key>
+	<string>ނިއްވާލާ</string>
+	<key>APPLICATION_SWITCHER_TITLE</key>
+	<string>އެޕްލިކޭޝަން</string>
+	<key>APP_DOWNLOAD_QUEUE_ERROR</key>
+	<string>ޑައުނޯޑާ ގުޅޭ މަޢުލޫމާތު ލިބިއެއްނުގަނެވުން. އައިޓިއުން އާ ގުޅުވާ.</string>
+	<key>APP_PROFILE_EXPIRED_BODY</key>
+	<string>ޕުރޮފައިލް މުއްދަތު ހަމަވެފައިވާތީ އެޕްލިކޭޝަން "@%" ނުހުޅުވުން.</string>
+	<key>APP_PROFILE_EXPIRED_OK</key>
+	<string>ރަނގަޅު</string>
+	<key>APP_PROFILE_NOT_TRUSTED_BODY</key>
+	<string>ހަމަ ރަނގަޅަށް ވެސް "@%" އުފައްދާފައިވާ އެޕްލިކޭޝަން "@%" ހުޅުވަން ބޭނުންފުޅުތޯ؟</string>
+	<key>APP_PROFILE_NOT_TRUSTED_CANCEL</key>
+	<string>ނިއްވާލާ</string>
+	<key>APP_PROFILE_NOT_TRUSTED_CONFIRM</key>
+	<string>ކުރިޔަށް</string>
+	<key>AUTO_WIFI_SYNC_LOW_POWER</key>
+	<string>ބާރުއެޅުމުން އޮޓޯ އައިޓިއުންސް ވައިފައި ސިންކް ކުރިޔަށްދާނެ.</string>
+	<key>AUTO_WLAN_SYNC_LOW_POWER</key>
+	<string>ބާރުއެޅުމުން އައިޓިއުންސް އޮޓޯ ވަޔަރލެސް ނެޓްވޯކް ސިންކް ކުރިޔަށްދާނެ.</string>
+	<key>AWAY_CALENDAR_LABEL</key>
+	<string>ކަމެއް</string>
+	<key>AWAY_CAMERA_LABEL</key>
+	<string>ކެމެރާކުރުމަށް ކަހާލާ</string>
+	<key>AWAY_EMPTY_CALL</key>
+	<string>ނޭނގޭ</string>
+	<key>AWAY_EMPTY_SMS</key>
+	<string>ނޭނގޭ</string>
+	<key>AWAY_EMPTY_VM</key>
+	<string>ނޭނގޭ</string>
+	<key>AWAY_LOCK_BUDDY_LABEL</key>
+	<string>ސެޓަޕް ހެދުމަށް ކަހާލާ</string>
+	<key>AWAY_LOCK_EMERGENCY_LABEL</key>
+	<string>އިމަޖެންސީ އަށް ގުޅުމަށް ކަހާލާ</string>
+	<key>AWAY_LOCK_LABEL</key>
+	<string>ހުޅުވުމަށް ކަހާލާ</string>
+	<key>AWAY_LOCK_LABEL_FORMAT</key>
+	<string>%@ އަށް ކަހާލާ</string>
+	<key>AWAY_LOCK_LABEL_SHORT</key>
+	<string>ހުޅުވާ</string>
+	<key>AWAY_MASKED_SMSES_LABEL</key>
+	<string>ކުރު މެސެޖުތައް</string>
+	<key>AWAY_MASKED_SMS_LABEL</key>
+	<string>ކުރު މެސެޖު</string>
+	<key>AWAY_MISSED_CALL_LABEL</key>
+	<string>ގުޅައިފި</string>
+	<key>AWAY_MISSED_VOICEMAIL_LABEL</key>
+	<string>އަޑު މެސެޖް</string>
+	<key>AWAY_SMS_LABEL</key>
+	<string>ކުރު މެސެޖު</string>
+	<key>BACK</key>
+	<string>ފަހަތަށް</string>
+	<key>BAD_SIM</key>
+	<string>ސިމް ކަމަކުނުދޭ</string>
+	<key>BAD_SIM_STRING</key>
+	<string>ތިޔަ ސިމް ވަނީ ބަދަލުކުރަންޖެހިފައި. ޚިދުމަތްދޭ ފަރާތާ ގުޅާ.</string>
+	<key>BAD_SIM_TITLE</key>
+	<string>ސިމް ހަލާކުވެފަ</string>
+	<key>BATTERY_CHARGE_PERCENTAGE</key>
+	<string>%@ ބާރު އެޅިފައި</string>
+	<key>BLOCKED</key>
+	<string>ބަންދު</string>
+	<key>BLUETOOTH_VOLUME</key>
+	<string>ބުލޫޓޫތު</string>
+	<key>BRICKED_AND_SIM_LOCKED_STRING_IPAD</key>
+	<string>އައިޕެޑް އެކްޓިވޭޓް ކުރުމަށް ޕިން ނަންބަރު ނުޖަހާއިން ރަނގަޅު ސިމެއް ލައްވާ</string>
+	<key>BRICKED_AND_SIM_LOCKED_STRING_IPHONE</key>
+	<string>އައިފޯން އެކްޓިވޭޓް ކުރުމަށް ޕިން ނަންބަރު ނުޖަހާއިން ރަނގަޅު ސިމެއް ލައްވާ</string>
+	<key>BULLETIN_LIST_CLEAR</key>
+	<string>ފުހެލާ</string>
+	<key>BULLETIN_LIST_DONE</key>
+	<string>ވެއްޖެ</string>
+	<key>BULLETIN_LIST_NO_NEW_NOTIFICATIONS</key>
+	<string>އާ ނޮޓިފިކޭޝަނެއް ނެތް</string>
+	<key>BULLETIN_TO_DATE_FORMAT</key>
+	<string>to %@</string>
+	<key>BULLETIN_TO_TIME_FORMAT</key>
+	<string>to %@</string>
+	<key>CALL</key>
+	<string>ގުޅާ</string>
+	<key>CALLING</key>
+	<string>ގުޅަނީ.....</string>
+	<key>CALLING_LABEL_FORMAT</key>
+	<string>%@ އަށް ގުޅަނީ.....</string>
+	<key>CALL_BACK</key>
+	<string>އަލުންގުޅާ</string>
+	<key>CALL_FAILURE</key>
+	<string>ނުގުޅުނު</string>
+	<key>CALL_FORWARDING_ACTIVE</key>
+	<string>ކޯލް ފޯވާޑްކުރެވޭ</string>
+	<key>CALL_PERMISSION_ALERT_CALL</key>
+	<string>ގުޅާ</string>
+	<key>CALL_PERMISSION_ALERT_CANCEL</key>
+	<string>ކެންސަލް</string>
+	<key>CALL_WITH</key>
+	<string>ގުޅާ %@: %@</string>
+	<key>CANCEL</key>
+	<string>ކެންސަލް</string>
+	<key>CARRIER_DEBUGGING_BODY</key>
+	<string>މި އާލާތް މިވަނީ މިޔާ ބެހޭ މަޢުލޫމާތު އެޕަލް ކުންފުންޏަށް ފޮނުވާގޮތަށް ހަދާފައެވެ.
+މީގެތެރޭގައި އާލާތް ބޭނުންކުރެވޭގޮތާއި، ޒާތީ މަޢުލޫމާތު ހިމެނެއެވެ.
+މި ސޮފްޓްވެއަރ އަކީ ޓެސްޓުކުރުމަށް ދޫކުރެވިފައިވާ ސޮފްޓްވެއާއަކަށް ވުމާއެކު ބުނެވިދިޔަ މަޢުލޫމާތު ފޮނުވުން ހުއްޓުވަން ބޭނުންނަމަ ވަޒީފާ ދިން ފަރާތާ ވާހަކަ ދައްކާށެވެ.</string>
+	<key>CARRIER_DEBUGGING_TITLE</key>
+	<string>ތަހުލީލުތަކަށް ތައްޔާރުކުރެވިފަ</string>
+	<key>CHARS_REMAINING</key>
+	<string>ބާކީ %@ އަކުރު</string>
+	<key>CHAR_REMAINING</key>
+	<string>ބާކީ %@ އަކުރު</string>
+	<key>CLASS_0_ALERT_MESSAGE_FROM</key>
+	<string>%@ ގެ ފަރާތުން މެސެޖެއް</string>
+	<key>CLEANING_ICON_LABEL</key>
+	<string>ސާފުކުރަނީ…</string>
+	<key>CLOSE</key>
+	<string>ނިންމާ</string>
+	<key>CONFERENCE_CALL</key>
+	<string>ކޮންފަރެންސް</string>
+	<key>CONFIRM_NEW_PASSCODE</key>
+	<string>އަދި އެއްފަހަރު ސިއްރުނަމްބަރު ޖަހާ</string>
+	<key>CONFIRM_NEW_PASSCODE_MISMATCH</key>
+	<string>ޖެހި އާ %@ ސިއްރުނަމްބަރު ދިމައެއްނުވި </string>
+	<key>CONNECT_TO_ITUNES</key>
+	<string>އައިޓިއުންސްއާ ގުޅުވާ</string>
+	<key>CORPORATE_LOCKED_LABEL</key>
+	<string>ވަކި މުއައްސަސާއަކަށް ޚާއްސަކުރެވިފަ</string>
+	<key>CORPORATE_LOCKED_SIM_STRING</key>
+	<string>މި ފޯނު ވަނީ ވަކި މުއައްސަސާއަކަށް ޚާއްސަކުރެވިފައިވާ ސިމަކަށް ޚާއްސަކުރެވިފައި.</string>
+	<key>COUNT_DOWN_TIME_REACHED</key>
+	<string>ޓައިމަރު ނިމިއްޖެ</string>
+	<key>Call Failure
+%@
+%@</key>
+	<string>ނުގުޅުނު
+%@
+%@</string>
+	<key>Call failed</key>
+	<string>ނުގުޅުނު</string>
+	<key>DATA_PLAN_ACTIVATED_FORMAT</key>
+	<string>ތިޔަފަރާތުން އެދުނު %@ ސެލިޔުލާ ޑާޓާ ޕްލޭން އެކްޓިވޭޓް ވެއްޖެ.</string>
+	<key>DATA_PLAN_ACTIVATED_TITLE</key>
+	<string>ޑާޓާ ޕްލޭން ފެށިއްޖެ</string>
+	<key>DATA_PLAN_ADD_EMPTY_BODY</key>
+	<string>މިހާރު ފެށިފައިވާ ޑާޓާ ޕްލޭންގައި ބާކީ ޑާޓާއެއްނެތެވެ. ޑާޓާ އިތުރުކުރަން ބޭނުންތަ؟ މިހާރު ކުރަން ބޭނުން ނުވާނަމަ ފަހުން ސެޓިންގްސް ތެރެއިން އިތުރުކުރެވޭނެ އެވެ.</string>
+	<key>DATA_PLAN_ADD_EXPIRATION_BODY_LESS_THAN_MULTIPLE_DAYS</key>
+	<string>ތިޔަފަރާތުގެ ޑާޓާ ޕްލޭން %@ ދުވަސްތެރޭ މުއްދަތު ހަމަވާނެއެވެ. މުއްދަތު އިތުރުކުރަން ބޭނުންތަ؟ މިހާރު އިތުރު ނުކުރިކަމުގައި ވިޔަސް ފަހުން ސެޓިންގްސް ތެރެއިން އިތުރުކުރެވޭނެ އެވެ.</string>
+	<key>DATA_PLAN_ADD_EXPIRATION_BODY_MULTIPLE_DAYS</key>
+	<string>ތިޔަފަރާތުގެ ޑާޓާ ޕްލޭން %@ ދުވަސްތެރޭ މުއްދަތު ހަމަވާނެއެވެ. މުއްދަތު އިތުރުކުރަން ބޭނުންތަ؟ މިހާރު އިތުރު ނުކުރިކަމުގައި ވިޔަސް ފަހުން ސެޓިންގްސް ތެރެއިން އިތުރުކުރެވޭނެ އެވެ.</string>
+	<key>DATA_PLAN_ADD_EXPIRATION_BODY_MULTIPLE_HOURS</key>
+	<string>ތިޔަފަރާތުގެ ޑާޓާ ޕްލޭން %@ ގަޑިއިރުތެރޭ މުއްދަތު ހަމަވާނެއެވެ. މުއްދަތު އިތުރުކުރަން ބޭނުންތަ؟ މިހާރު އިތުރު ނުކުރިކަމުގައި ވިޔަސް ފަހުން ސެޓިންގްސް ތެރެއިން އިތުރުކުރެވޭނެ އެވެ.</string>
+	<key>DATA_PLAN_ADD_EXPIRATION_BODY_MULTIPLE_MINUTES</key>
+	<string>ތިޔަފަރާތުގެ ޑާޓާ ޕްލޭން %@ ގަޑިއިރުތެރޭ މުއްދަތު ހަމަވާނެއެވެ. މުއްދަތު އިތުރުކުރަން ބޭނުންތަ؟ މިހާރު އިތުރު ނުކުރިކަމުގައި ވިޔަސް ފަހުން ސެޓިންގްސް ތެރެއިން އިތުރުކުރެވޭނެ އެވެ.</string>
+	<key>DATA_PLAN_ADD_EXPIRATION_BODY_ONE_DAY</key>
+	<string>ތިޔަފަރާތުގެ ޑާޓާ ޕްލޭން 1 ދުވަސްތެރޭ މުއްދަތު ހަމަވާނެއެވެ. މުއްދަތު އިތުރުކުރަން ބޭނުންތަ؟ މިހާރު އިތުރު ނުކުރިކަމުގައި ވިޔަސް ފަހުން ސެޓިންގްސް ތެރެއިން އިތުރުކުރެވޭނެ އެވެ.</string>
+	<key>DATA_PLAN_ADD_EXPIRATION_BODY_ONE_HOUR</key>
+	<string>ތިޔަފަރާތުގެ ޑާޓާ ޕްލޭން 1 ގަޑިއިރުތެރޭ މުއްދަތު ހަމަވާނެއެވެ. މުއްދަތު އިތުރުކުރަން ބޭނުންތަ؟ މިހާރު އިތުރު ނުކުރިކަމުގައި ވިޔަސް ފަހުން ސެޓިންގްސް ތެރެއިން އިތުރުކުރެވޭނެ އެވެ.</string>
+	<key>DATA_PLAN_ADD_LOW_BODY</key>
+	<string>ތިޔަފަރާތުގެ ޑާޓާ ޕްލޭންއިން ބާކީ އޮތީ ހަމައެކަނި %@ އެވެ. ޕްލޭނަށް ޑާޓާ އިތުރުކުރަން ބޭނުންތަ؟ މިހާރު ނޫނަސް ފަހުންވެސް ސެޓިންގްސް ތެރެއިން ޑާޓާ އިތުރުކުރެވޭނެ އެވެ.</string>
+	<key>DATA_PLAN_ADD_TITLE</key>
+	<string>ޑާޓާ ޕްލޭން ބޭނުންކުރެވުނު ވަރު</string>
+	<key>DATA_PLAN_DISABLE_BODY</key>
+	<string>ސެލިޔުލާ ޑާޓާ ޕްލޭންއާ ބެހޭގޮތުން އިތުރު ސުވާލެއް ތިޔަފަރާތަށް ކުރިމަތިވާން ބޭނުންނޫން ނަމަ ސެޓިންގްސް ތެރެއިން ސެލިޔުލާ ޑާޓާ ޕްލޭން ނިއްވާލާށެވެ.</string>
+	<key>DATA_PLAN_DISABLE_TITLE</key>
+	<string>ސެލިޔުލާ ޑާޓާ</string>
+	<key>DATA_PLAN_FAILED_ACTIVATE_FORMAT</key>
+	<string>ތިޔަފަރާތުގެ %@ ސެލިޔުލާ ޑާޓާ ޕްލޭން އެކްޓިވޭޓެއްނުވިއެވެ.</string>
+	<key>DATA_PLAN_FAILED_TITLE</key>
+	<string>ޑާޓާ ޕްލޭން އެކްޓިވޭޓެއްނުވި</string>
+	<key>DATA_PLAN_FAILED_TRY_AGAIN</key>
+	<string>އަދި މަސައްކަތްކޮށްލާ</string>
+	<key>DATA_PLAN_FAILED_TRY_LATER</key>
+	<string>ކެންސަލް</string>
+	<key>DATA_PLAN_FAILED_UPDATE_FORMAT</key>
+	<string>ތިޔަފަރާތުގެ %@ ސެލިޔުލާ ޑާޓާ ޕްލޭން އަޕްޑޭޓެއްނުކުރެވުނެވެ.</string>
+	<key>DATA_PLAN_LATER</key>
+	<string>ފަހުން</string>
+	<key>DATA_PLAN_NEW_ACCOUNT_BODY</key>
+	<string>ތިޔަފަރާތުން ޑާޓާ ޕްލޭނެއް ސައިން އަޕް ކޮށްފައެއްނުވެ އެވެ. އާ އެކައުންޓެއް ހަދަން ބޭނުންތަ؟ މިހާރުނޫނަސް ފަހުންވެސް ސެޓިންގްސް ތެރެއިން ހެދޭނެ އެވެ.</string>
+	<key>DATA_PLAN_NEW_ACCOUNT_TITLE</key>
+	<string>ސެލިޔުލާ ޑާޓާ އެކައުންޓު</string>
+	<key>DATA_PLAN_NOW</key>
+	<string>މިހާރު</string>
+	<key>DATA_PLAN_UPDATED_FORMAT</key>
+	<string>ތިޔަފަރާތުގެ %@ ސެލިޔުލާ ޑާޓާ ޕްލޭން އަޕްޑޭޓުވެއްޖެއެވެ.</string>
+	<key>DATA_PLAN_UPDATED_TITLE</key>
+	<string>ޑާޓާ ޕްލޭން އަޕްޑޭޓްވެއްޖެ</string>
+	<key>DEAD_RADIO_MESSAGE</key>
+	<string>މި އައިފޯނުން އެހެން ފޯނުތަކަށް ގުޅާ އެހެން ފޯނުކަތުން އަންނަ ފޯނު ލިބިއެއްނުގަނެވެ އެވެ. އައިޓިއުންސް އިން ރިސްޓޯރ ކުރާށެވެ.
+www.apple.com/support</string>
+	<key>DEAD_RADIO_TITLE</key>
+	<string>ރިސްޓޯރ ކުރަންޖެހޭ</string>
+	<key>DELETE_ICON_BODY</key>
+	<string>ފޮތްފާހަގަ “%@” ފުހެލަންވީތަ؟</string>
+	<key>DELETE_ICON_CANCEL</key>
+	<string>ކެންސަލް</string>
+	<key>DELETE_ICON_CONFIRM</key>
+	<string>ފުހެލާ</string>
+	<key>DELETE_ICON_TITLE</key>
+	<string>އައިކަން ފުހެލާ</string>
+	<key>DELETE_WIDGET_BODY</key>
+	<string>“%@” ފުހެލަންވީތަ؟</string>
+	<key>DELETE_WIDGET_CANCEL</key>
+	<string>ކެންސަލް</string>
+	<key>DELETE_WIDGET_CONFIRM</key>
+	<string>ފުހެލާ</string>
+	<key>DELETE_WIDGET_TITLE</key>
+	<string>“%@” ފުހެލާ</string>
+	<key>DEVICE_BLOCKED</key>
+	<string>%@ ވަނީ ބަންދުވެފައި</string>
+	<key>DIAL</key>
+	<string>ގުޅާ</string>
+	<key>DISMISS_ALERT</key>
+	<string>ނިންމާ</string>
+	<key>DONE</key>
+	<string>ވެއްޖެ</string>
+	<key>DOWNLOADING_ICON_LABEL</key>
+	<string>ލޯޑިންގް…</string>
+	<key>DURATION_PREAMBLE</key>
+	<string>ގުޅުމަށް އެނބުރިދިޔުމަށް އަތްލާ</string>
+	<key>EDGE_FAILURE</key>
+	<string>ސެލިޔުލާ ޑާޓާ ނެޓްވޯކު އެކްޓީވޭޓެއް ނުކުރެވުނެވެ.</string>
+	<key>EDGE_FAILURE_SETTINGS</key>
+	<string>ސެޓިންގްސް</string>
+	<key>EDGE_OFF_FAILURE_BODY</key>
+	<string>ޑާޓާ ޚިދުމަތް ބޭނުންކުރުމަށް ސެލިޔުލާ ޑާޓާ ހުޅުވާ ނުވަތަ ވައިފައި ބޭނުންކުރާށެވެ.</string>
+	<key>EDGE_OFF_FAILURE_BODY_IPAD</key>
+	<string>ޑާޓާ ޚިދުމަތް ބޭނުންކުރުމަށް ސެލިޔުލާ ޑާޓާ ހުޅުވާ ނުވަތަ ވައިފައި ބޭނުންކުރާށެވެ.</string>
+	<key>EDGE_OFF_FAILURE_BODY_IPAD_NO_WIFI</key>
+	<string>ޑާޓާ ޚިދުމަތް ލިބިގަތުމަށް ސެލިޔުލާ ޑާޓާ ހުޅުވާށެވެ.</string>
+	<key>EDGE_OFF_FAILURE_BODY_IPAD_WLAN</key>
+	<string>ޑާޓާ ޚިދުމަތް ބޭނުންކުރުމަށް ސެލިޔުލާ ޑާޓާ ހުޅުވާ ނުވަތަ ވަޔަލެސްލޭން ބޭނުންކުރާށެވެ.</string>
+	<key>EDGE_OFF_FAILURE_BODY_NO_WIFI</key>
+	<string>ޑާޓާ ޚިދުމަތް ލިބިގަތުމަށް ސެލިޔުލާ ޑާޓާ ހުޅުވާށެވެ.</string>
+	<key>EDGE_OFF_FAILURE_BODY_WLAN</key>
+	<string>ޑާޓާ ޚިދުމަތް ބޭނުންކުރުމަށް ސެލިޔުލާ ޑާޓާ ހުޅުވާ ނުވަތަ ވަޔަލެސްލޭން ބޭނުންކުރާށެވެ.</string>
+	<key>EDGE_OFF_FAILURE_TITLE</key>
+	<string>ސެލިޔުލާ ޑާޓާ ވަނީ ނިއްވާލެވިފައި</string>
+	<key>EDGE_OK</key>
+	<string>ރަނގަޅު</string>
+	<key>EDGE_ROAMING_FAILURE_BODY</key>
+	<string>ޑާޓާ ޚިދުމަތް ލިބިގަތުމަށް ވައިފައި ބޭނުންކުރާށެވެ. ނުވަތަ ސެޓިން&gt;އާންމު&gt;ނެޓްވޯކް އިން ޑާޓާ ރޯމިން ހުޅުވާށެވެ. އިތުރުފީއެއް ނެގުމަކީ އެކަށީގެންވާކަމެކެވެ.</string>
+	<key>EDGE_ROAMING_FAILURE_BODY_IPAD</key>
+	<string>ޑާޓާ ޚިދުމަތް ލިބިގަތުމަށް ވައިފައި ބޭނުންކުރާށެވެ. ނުވަތަ ޑާޓާ ޚިދުމަތް ލިބިގަތުމަށް ސެޓިން&gt;ސެލިއުލާ ޑާޓާ، ތެރެއިން ޑާޓާ ރޯމިން ހުޅުވާށެވެ. އިތުރު ފީއެއް ނެގުމަކީ އެކަށީގެންވާކަމެކެވެ</string>
+	<key>EDGE_ROAMING_FAILURE_BODY_IPAD_NO_WIFI</key>
+	<string>ޑާޓާ ޚިދުމަތް ލިބިގަތުމަށް ސެޓިން&gt;ސެލިއުލާ ޑާޓާ، ތެރެއިން ޑާޓާ ރޯމިން ހުޅުވާށެވެ. އިތުރު ފީއެއް ނެގުމަކީ އެކަށީގެންވާކަމެކެވެ</string>
+	<key>EDGE_ROAMING_FAILURE_BODY_IPAD_WLAN</key>
+	<string>ޑާޓާ ޚިދުމަތް ބޭނުންކުރުމަށް ސެލިޔުލާ ޑާޓާ ހުޅުވާށެވެ. ނުވަތަ ވަޔަލެސްލޭން ބޭނުންކުރާށެވެ. އިތުރު ފީއެއް ނެގުމަކީ އެކަށީގެންވާ ކަމެކެވެ.</string>
+	<key>EDGE_ROAMING_FAILURE_BODY_NO_WIFI</key>
+	<string>ޑާޓާ ޚިދުމަތް ލިބިގަތުމަށް ސެޓިން&gt;ސެލިއުލާ ޑާޓާ، ތެރެއިން ޑާޓާ ރޯމިން ހުޅުވާށެވެ. އިތުރު ފީއެއް ނެގުމަކީ އެކަށީގެންވާކަމެކެވެ</string>
+	<key>EDGE_ROAMING_FAILURE_BODY_WLAN</key>
+	<string>ޑާޓާ ޚިދުމަތް ބޭނުންކުރުމަށް ސެލިޔުލާ ޑާޓާ ހުޅުވާށެވެ. ނުވަތަ ވަޔަލެސްލޭން ބޭނުންކުރާށެވެ. އިތުރު ފީއެއް ނެގުމަކީ އެކަށީގެންވާ ކަމެކެވެ.</string>
+	<key>EDGE_ROAMING_FAILURE_TITLE</key>
+	<string>ޑާޓާ ރޯމިން ނިއްވާލެވިފަ</string>
+	<key>EMERGENCY_CALL</key>
+	<string>އިމަޖެންސީ ގުޅުން</string>
+	<key>EMERGENCY_CALL_TITLE</key>
+	<string>އިމަޖެންސީ
+ގުޅުން</string>
+	<key>EMPTY_SEARCH_RESULT</key>
+	<string>(ސުރުޚީއެއް ނެތް)</string>
+	<key>ENTER_CURRENT_PASSCODE</key>
+	<string>ސިއްރުނަމްބަރު ބަދަލުކުރުމަށް މިހާރު ބޭނުންކުރާ ސިއްރުނަމްބަރު ޖަހާށެވެ.</string>
+	<key>ENTER_NEW_PASSCODE</key>
+	<string>އާ ސިއްރުނަމްބަރު ޖަހާ</string>
+	<key>ENTER_PASSCODE</key>
+	<string>ސިއްރުނަމްބަރު ޖަހާ</string>
+	<key>ENTER_PIN_TITLE</key>
+	<string>ޕިން ކޯޑު ޖަހާ</string>
+	<key>ENTER_PUK_TITLE</key>
+	<string>ޕަކް ކޯޑު ޖަހާ</string>
+	<key>EXPIRED_FORMAT</key>
+	<string>ތިޔަފަރާތަށް “%@” ކުއްޔަށް ދެވިފައިވާ މުއްދަތުވަނީ ހަމަވެފައެވެ.</string>
+	<key>FIREWIRE_ALERT_STRING</key>
+	<string>މި ޗާޖަރުން
+މި އާލާތް ޗާޖެއްނުކުރެވޭ އެވެ.</string>
+	<key>FIXED_DIALING_LOCKED_SIM_STRING</key>
+	<string>މި ސިމް ވަނީ ޚާއްސަ ނަންބަރުތަކަކަށް އެކަނި ގުޅޭ ގޮތަށް ހެދިފައެވެ. ތިޔަފަރާތަށް މިފޯނުން ހުއްދަވެގެން ވަނީ ހަމައެކަނި އިމަޖެންސީ ނަންބަރަށް ގުޅުމަށެވެ.</string>
+	<key>FIXED_DIALING_LOCKED_SIM_TITLE</key>
+	<string>ގުޅޭނީ ޚާއްސަ ނަންބަރުތަކަށް އެކަނި</string>
+	<key>GAMECENTER_DELETE_STATS_BODY</key>
+	<string>"%@" ގެ ލީޑާރބޯޑްސްއިން ވެސް ނުފެންނާނެ އެވެ.</string>
+	<key>GAMECENTER_DELETE_STATS_CANCEL</key>
+	<string>ބާއްވާ</string>
+	<key>GAMECENTER_DELETE_STATS_DELETE</key>
+	<string>ފުހެލާ</string>
+	<key>GAMECENTER_DELETE_STATS_TITLE</key>
+	<string>ގޭމްސެންޓަރުން "%@" ފުހެލަންވީތަ؟</string>
+	<key>HEADPHONES</key>
+	<string>ހެޑްފޯންތައް</string>
+	<key>HEADSET_VOLUME</key>
+	<string>ހެޑްސެޓް</string>
+	<key>HIGH_VOLUME</key>
+	<string>އަޑުގަދަ</string>
+	<key>INCOMING_CALL_FORWARDED</key>
+	<string>އައި ކޯލެއް ފޯވާޑްވެއްޖެ</string>
+	<key>INSTALLING_ICON_LABEL</key>
+	<string>އަޅަނީ…</string>
+	<key>INTERNET_TETHERING_MULTIPLE_HOSTS</key>
+	<string>އަމިއްލަ ހޮޓް ސްޕޮޓް: %@ ގުޅިފައި</string>
+	<key>INTERNET_TETHERING_SINGLE_HOST</key>
+	<string>އަމިއްލަ ހޮްޓްސްޕޮޓް: 1 ގުޅިފައި</string>
+	<key>IN_CALL_LAUNCH_ALERT</key>
+	<string>މި ކޯލް ކުރެވެމުން ދާއިރު ސެލިޔުލާ ޑާޓާގެ ޚިދުމަތެއް ނުލިބޭނެ އެވެ.</string>
+	<key>IN_CALL_LAUNCH_OK</key>
+	<string>ރަނގަޅު</string>
+	<key>IPHONE_TOO_HOT</key>
+	<string>ފިނިހޫނުމިން</string>
+	<key>IPOD</key>
+	<string>އައިޕޮޑް</string>
+	<key>IPOD_ONLY</key>
+	<string>އައިޕޮޑް</string>
+	<key>LISTEN</key>
+	<string>އަޑުއަހާ</string>
+	<key>LOCAL_NOTIFICATION_SNOOZE</key>
+	<string>ސްނޫޒް</string>
+	<key>LOCKED_SIM</key>
+	<string>ސިމް ތަޅުލެވިފަ</string>
+	<key>LOCKED_SIM_TITLE</key>
+	<string>ސިމް ކަމަކުނުދޭ</string>
+	<key>LOW_BATT_MSG_LEVEL</key>
+	<string>ބެޓެރީ ބާރުހުރީ %@</string>
+	<key>LOW_BATT_TITLE</key>
+	<string>ބެޓެރީ ދައްވެއްޖެ</string>
+	<key>LOW_DISK_SPACE_DISMISS</key>
+	<string>ވެއްޖެ</string>
+	<key>LOW_DISK_SPACE_MESSAGE</key>
+	<string>ހުސްޖާގަ ހެދުމަށް ސެޓިންގްސް ތެރެއަށް ދާށެވެ.</string>
+	<key>LOW_DISK_SPACE_SETTINGS</key>
+	<string>ސެޓިންގްސް</string>
+	<key>LOW_DISK_SPACE_TITLE</key>
+	<string>ސްޓޯރޭޖް ގާތްގަނޑަކަށް ފުރިފަ</string>
+	<key>MISMATCHED_SIM_BODY</key>
+	<string>އައިޓިއުންސް އާ ގުޅުވާ</string>
+	<key>MISMATCHED_SIM_TITLE</key>
+	<string>ތަފާތު ސިމެއް ނަގައިގެންފި</string>
+	<key>MISSING_SIM_TITLE</key>
+	<string>ސިމްކާޑެއް ލައްވާފައެއްނެތް</string>
+	<key>MOBILITY_MANAGEMENT_FORMAT_STRING</key>
+	<string>MM No. %d</string>
+	<key>MULTIPLE_CALLS</key>
+	<string>ބައިވަރު ކޯލްތަކެއް</string>
+	<key>MULTIPLE_MINUTES_TO_UNBLOCK</key>
+	<string>%@ މިނެޓް ފަހުން މަސައްކަތްކޮށްލާ</string>
+	<key>MULTIPLE_NEW_MESSAGE_HIDDEN_PREVIEW</key>
+	<string>%@  އާ އެސްއެމްއެސް</string>
+	<key>MUSIC</key>
+	<string>މިޔުޒިކް</string>
+	<key>MUTE_OFF</key>
+	<string>އަޑުނުކަނޑާ</string>
+	<key>MUTE_ON</key>
+	<string>އަޑުކަނޑާލާ</string>
+	<key>NETWORK_LOCKED_LABEL</key>
+	<string>ވަކި ނެޓްވޯކަކަށް ޚާއްސަކުރެވިފައި</string>
+	<key>NETWORK_LOCKED_SIM_STRING</key>
+	<string>ތިޔަފަރާތުގެ ފޯނު ވަނީ ޙާއްސަ ސިމަކާޑުތަކަކަށް ޚާއްސަކުރެވިފައެވެ.</string>
+	<key>NETWORK_LOST</key>
+	<string>ނެޓްވޯކު ގެއްލިއްޖެ</string>
+	<key>NETWORK_LOST_LOCK_LABEL</key>
+	<string>ޚިޔާރުކުރުމަށް ކަހާލާ</string>
+	<key>NETWORK_LOST_LOCK_LABEL_SHORT</key>
+	<string>ޚިޔާރުކުރޭ</string>
+	<key>NETWORK_LOST_TEXT</key>
+	<string>ތިޔަފަރާތުން ޚިޔާރުކޮށްފައިވާ ނެޓްވޯކު މިހާރުލިބޭކަށް ނެތެވެ. ސެޓިންގްސް ތެރެއްިން އެހެން ނެޓްވޯކެއް ޚިޔާރުކުރާށެވެ.</string>
+	<key>NETWORK_RESTRICTED</key>
+	<string>މަނާކުރެވިފައިވާ ނެޓްވޯކެއް</string>
+	<key>NETWORK_RESTRICTED_TEXT</key>
+	<string>ތިޔަފަރާތުން ޚިޔާރުކޮށްފައިވާ ނެޓްވޯކު ވަނީ މަނާކުރެވިފައެވެ. ސެޓިންގްސް ތެރެއްިން އެހެން ނެޓްވޯކެއް ޚިޔާރުކުރާށެވެ.</string>
+	<key>NEWLY_INSTALLED_APP_SASH_LABEL</key>
+	<string>އާ</string>
+	<key>NEWSSTAND_CARD_TEXT</key>
+	<string>އެޕް ސްޓޯރުން މަޖައްލާ އާއި ނޫސް ޑައުންލޯޑު ކުރެވޭނެ އެވެ.</string>
+	<key>NEWSSTAND_FOLDER_TITLE</key>
+	<string>ޚަބަރުފީތާ</string>
+	<key>NEWSSTAND_ICON_TITLE</key>
+	<string>ޚަބަރުފީތާ</string>
+	<key>NEWSSTAND_NEWISSUEBADGE_TITLE</key>
+	<string>އާ</string>
+	<key>NEWSSTAND_STORE_BUTTON_TITLE</key>
+	<string>ފިހާރަ</string>
+	<key>NEW_TEXT_MESSAGE</key>
+	<string>އާ ކުރު މެސެޖެއް</string>
+	<key>NEW_VOICEMAIL</key>
+	<string>އާ އަޑު މެސެޖެއް</string>
+	<key>NEW_VOICEMAIL_BODY</key>
+	<string>އަޑު މެސެޖު</string>
+	<key>NEW_VOICEMAIL_FROM</key>
+	<string>%@ ގެ ފަރާތުން އާ އަޑު މެސެޖެއް</string>
+	<key>NO</key>
+	<string>ނޫން</string>
+	<key>NON_COMPLIANT_PASSCODE_CONTINUE</key>
+	<string>ކުރިޔަށް</string>
+	<key>NON_COMPLIANT_PASSCODE_LATER</key>
+	<string>ފަހުން</string>
+	<key>NOW</key>
+	<string>މިހާރު</string>
+	<key>NO_NAME</key>
+	<string>ނޭނގޭ</string>
+	<key>NO_SEARCH_RESULTS</key>
+	<string>ނަތީޖާއެއް ނެތް</string>
+	<key>NO_SERVICE</key>
+	<string>ޚިދުމަތެއްނުލިބޭ</string>
+	<key>NO_SIM</key>
+	<string>ސިމެއްނެތް</string>
+	<key>OK</key>
+	<string>ރަނގަޅު</string>
+	<key>ONE_MINUTE_TO_UNBLOCK</key>
+	<string>1 މިނެޓު ފަހުން މަސައްކަތްކޮށްލާ</string>
+	<key>OPERATOR_LOCKED_LABEL</key>
+	<string>ޚިދުމަތްދޭ ވަކިފަރާތަކަށް ޚާއްސަވެފައި</string>
+	<key>OPERATOR_LOCKED_SIM_STRING</key>
+	<string>ތިޔަފރާތުގެ ފޯނުވަނީ ވަކި ނެޓްވޯކަކުން ދޫކުރާ ސިމްކާޑުތައް އެކަނި ބޭނުންކުރެވޭގޮތަށް ހަދާފައެވެ.</string>
+	<key>OPERATOR_SS_LOCKED_LABEL</key>
+	<string>ވަކިނެޓްވޯކަކަށް ޚާއްސަކުރެވިފައި</string>
+	<key>OPERATOR_SUBSET_LOCKED_SIM_STRING</key>
+	<string>ތިޔަފރާތުގެ ފޯނުވަނީ ވަކި ނެޓްވޯކަކުން ދޫކުރާ ސިމްކާޑުތައް އެކަނި ބޭނުންކުރެވޭގޮތަށް ހަދާފައެވެ.</string>
+	<key>ORIENTATION_LOCK_LANDSCAPE_LOCKED</key>
+	<string>ލޭންޑްސްކޭޕް އޮރިއެންޓޭޝަން ތަޅުލެވިފަ</string>
+	<key>ORIENTATION_LOCK_PORTRAIT_LOCKED</key>
+	<string>ޕޯޓްރައިޓް އޮރިއެންޓޭޝަން ތަޅުލެވިފަ</string>
+	<key>ORIENTATION_LOCK_PORTRAIT_UNLOCKED</key>
+	<string>ޕޯޓްރައިޓް އޮރިއެންޓޭޝަން ހުޅުވިއްޖެ</string>
+	<key>ORIENTATION_LOCK_UNLOCKED</key>
+	<string>އޮރިއެންޓޭޝަން ހުޅުވިއްޖެ</string>
+	<key>OUTGOING_CALL_FORWARDED</key>
+	<string>ގުޅި ކޯލް ފޯވާޑްވެއްޖެ</string>
+	<key>PASSCODE_ALERT_CANCEL</key>
+	<string>ކެންސަލް</string>
+	<key>PASSCODE_ALERT_DONE</key>
+	<string>ރައްކާކުރޭ</string>
+	<key>PASSCODE_ALERT_EMERGENCY</key>
+	<string>އިމަޖެންސީ</string>
+	<key>PASSCODE_ALERT_INCORRECT_PASSCODE</key>
+	<string>ނުބައި ސިއްރުނަމްބަރެއް. މިހާރުގެ ސިއްރުނަމްބަރު ޖަހާ.</string>
+	<key>PASSCODE_ALERT_NEXT</key>
+	<string>ކުރިޔަށް</string>
+	<key>PASSCODE_ALERT_TITLE</key>
+	<string>ސިއްރުނަމްބަރު ބޭނުންވޭ</string>
+	<key>PASSCODE_REMINDER_CANCEL</key>
+	<string>މިހާރަކުނޫން</string>
+	<key>PASSCODE_REMINDER_CONTINUE</key>
+	<string>ކުރިއަށް</string>
+	<key>PAUSED_ICON_LABEL</key>
+	<string>މަޑު</string>
+	<key>PENDING_DOWNLOAD_REMOVED_BODY</key>
+	<string>ތިޔަފަރާތުގެ ކޮންޕިއުޓަރުގެ އައިޓިއުންސްގައިވާ ބައެއް ޑައުންލޯޑްތައް ފުރިހަމަވެއްޖެއެވެ.</string>
+	<key>PENDING_DOWNLOAD_REMOVED_OK</key>
+	<string>ނިންމާ</string>
+	<key>PENDING_DOWNLOAD_REMOVED_TITLE</key>
+	<string>ޑައުންލޯޑު ކުރެވިއްޖެ</string>
+	<key>PERSONALIZATION_LOCKED_SIM_STRING</key>
+	<string>މި އައިފޯނު ބޭނުންކުރެވޭނީ ހުއްދަކުރެވިފައިވަ ސިމަކާ އެކުއެވެ.</string>
+	<key>PERSONALIZATION_LOCK_ENTER_CODE</key>
+	<string>ކޯޑު ޖަހާ</string>
+	<key>PERSONALIZATION_UNLOCK_FAILED_TITLE</key>
+	<string>ކޯޑު ނުބައި</string>
+	<key>PHONE_ACTIVATED</key>
+	<string>އައިފޯނު އެކްޓިވޭޓް ވެއްޖެ</string>
+	<key>PIN_ATTEMPTS_REMAINING</key>
+	<string>ބާކީ އޮތީ %@ ފުރުސަތު</string>
+	<key>PIN_ATTEMPT_REMAINING</key>
+	<string>ބާކީ އޮތީ 1 ފުރުސަތު</string>
+	<key>PIN_ENTRY_SUCCESS</key>
+	<string>ޕިންކޯޑު ރަނގަޅު</string>
+	<key>PIN_LOCKED_STRING</key>
+	<string>ސިމް ކާޑު ވަނީ ތަޅުލެވިފައެވެ. ހުޅުވަން ބޭނުންތަ؟</string>
+	<key>PIN_LOCKED_TITLE</key>
+	<string>ސިމް ތަޅުލެވިފައި</string>
+	<key>PIN_UNLOCK_FAILED_TITLE</key>
+	<string>ޕިންކޯޑު ނުބައި</string>
+	<key>PLEASE_WAIT</key>
+	<string>މަޑުކޮށްލާ…</string>
+	<key>POWER_DOWN_CANCEL</key>
+	<string>ކެންސަލް</string>
+	<key>POWER_DOWN_LINE_1</key>
+	<string>ފިތައް ފިތާފަ ހިފަހައްޓާލާ</string>
+	<key>POWER_DOWN_LINE_2</key>
+	<string>ނިއްވާލުމަށް</string>
+	<key>POWER_DOWN_LOCK_LABEL</key>
+	<string>ނިއްވާލުމަށް ކަހާލާ</string>
+	<key>PRINT_CENTER_TITLE</key>
+	<string>ޕްރިންޓް ސެންޓަރު</string>
+	<key>PUK_ENTRY_SUCCESS</key>
+	<string>ޕަކް ކޯޑު ރަނގަޅު</string>
+	<key>PUK_HOPELESSLY_LOCKED_STRING</key>
+	<string>ސިމް ހުޅުވުމަށް ބޭނުންކުރެވޭ ހުރިހާ ފުރުސަތެއް ވަނީ ބޭނުންކުރެވިފައެވެ. އިތުރަށް ކުރިޔަށް ދިޔުމަށް ޚިދުމަތްދޭ ފަރާތާ ގުޅާށެވެ.</string>
+	<key>PUK_HOPELESSLY_LOCKED_TITLE</key>
+	<string>ޕަކް ކޯޑު މާގިނައިން ބޭނުންކުރެވިއްޖެ</string>
+	<key>PUK_LOCKED_CONFIRM_PIN</key>
+	<string>އާ ޕިންކޯޑު ޔަގީންކުރޭ</string>
+	<key>PUK_LOCKED_CONFIRM_PIN_LABEL</key>
+	<string>އާ ޕިން ކޯޑު ޖަހާ</string>
+	<key>PUK_LOCKED_ENTER_PIN</key>
+	<string>ޕިން ކޯޑު ޖަހާ</string>
+	<key>PUK_LOCKED_ENTER_PIN_LABEL</key>
+	<string>އާ ޕިން ކޯޑެއް ޚިޔާރުކުރޭ</string>
+	<key>PUK_LOCKED_PIN_MISMATCH_LABEL</key>
+	<string>ކުރީގެ ޕިން ކޯޑުތައް ދިމައެއްނުވޭ</string>
+	<key>PUK_LOCKED_STRING</key>
+	<string>ތިޔަ ސިމް ބޭނުމެއް ނުކުރެވެއެވެ. ޕަކް ކޯޑު ހޯދުމަށް ޚިދުމަތްދޭ ފަރާތާ ގުޅާށެވެ.</string>
+	<key>PUK_LOCKED_TITLE</key>
+	<string>ޕަކް ކޯޑު ތަޅުލެވިފައި</string>
+	<key>PUK_UNLOCK_FAILED_TITLE</key>
+	<string>ޕަކް ކޯޑު ނުބައި</string>
+	<key>Phone not allowed</key>
+	<string>ފޯނު ހުއްދައެއްނޫން</string>
+	<key>RATINGS_ICON_BODY</key>
+	<string>ރޭޓްކުރުމަށް ތަރިއަށް ފިތާލާށެވެ.</string>
+	<key>RATINGS_ICON_RATE</key>
+	<string>ރޭޓް</string>
+	<key>RATINGS_ICON_SKIP</key>
+	<string>ނޫން ޝުކުރިއްޔާ</string>
+	<key>RATINGS_ICON_TITLE</key>
+	<string>“%@” ފުހެލުމުގެކުރިން ރޭޓްކުރާށެވެ. </string>
+	<key>RE-CALIBRATE COMPASS</key>
+	<string>ސަމުގާ އިންޓަފިއަރެންސް</string>
+	<key>RE-CALIBRATE_INSTRUCTION_IPAD</key>
+	<string>އެއްވެސް އިންޓަފިއަރެންސެއް ވާނަމަ އެއާ ދުރުވާށެވެ. ނުވަތަ 8ގެ ބައްޓަމަށް އައިޕެޑް ހަރަކާތްކޮށްގެން ރިކެލިބްރޭޓް ކުރާށެވެ.</string>
+	<key>RE-CALIBRATE_INSTRUCTION_IPHONE</key>
+	<string>އެއްވެސް އިންޓަފިއަރެންސެއް ވާނަމަ އެއާ ދުރުވާށެވެ. ނުވަތަ 8ގެ ބައްޓަމަށް އައިފޯނު ހަރަކާތްކޮށްގެން ރިކެލިބްރޭޓް ކުރާށެވެ.</string>
+	<key>RE-CALIBRATE_INSTRUCTION_IPOD</key>
+	<string>އެއްވެސް އިންޓަފިއަރެންސެއް ވާނަމަ އެއާ ދުރުވާށެވެ. ނުވަތަ 8ގެ ބައްޓަމަށް އައިޕޮޑް ހަރަކާތްކޮށްގެން ރިކެލިބްރޭޓް ކުރާށެވެ.</string>
+	<key>REDIAL</key>
+	<string>އަލުންގުޅާ</string>
+	<key>REGISTRATION_FAILED_BODY</key>
+	<string>ސިގުނަލެއް ނުލިބެއެވެ. އެކްޓިވޭޓް ކުރުމަށް ސިގްނަލް ބޭނުންވެއެވެ.</string>
+	<key>REGISTRATION_FAILED_TITLE</key>
+	<string>އެކްޓިވޭޝަން އިންޒާރު</string>
+	<key>RELATIVE_DATE_FUTURE_HOUR</key>
+	<string>%@ގ ފަހުން</string>
+	<key>RELATIVE_DATE_FUTURE_MIN</key>
+	<string>%@މ ފަހުން</string>
+	<key>RELATIVE_DATE_FUTURE_SEC</key>
+	<string>%@ސ ފަހުން</string>
+	<key>RELATIVE_DATE_NOW</key>
+	<string>މިހާރު</string>
+	<key>RELATIVE_DATE_PAST_DAY</key>
+	<string>%@ ދ ކުރީގެ</string>
+	<key>RELATIVE_DATE_PAST_HOUR</key>
+	<string>%@ ގ ކުރީގެ</string>
+	<key>RELATIVE_DATE_PAST_MIN</key>
+	<string>%@ މ ކުރީގެ</string>
+	<key>RELATIVE_DATE_PAST_SEC</key>
+	<string>%@ ސ ކުރީގެ</string>
+	<key>REMOTE_NOTIFICATIONS_LOCK_FORMAT</key>
+	<string>%@ ކަހާލާ </string>
+	<key>REMOTE_NOTIFICATIONS_LOCK_LABEL</key>
+	<string>ބެލުމަށް ކަހާލާ</string>
+	<key>REMOTE_NOTIFICATION_CONTENT_DOWNLOAD_ALERT_BODY</key>
+	<string>ވައިފައި ހުޅުވުމުން އޮޓޯއިން އާ ނޮޓިފިކޭޝަން ޑައުންލޯޑް ވާނެއެވެ. މިކަން ހަމަޖެއްސުމަށް ސެޓިންގްސްއަށް ދާށެވެ.</string>
+	<key>REMOTE_NOTIFICATION_CONTENT_DOWNLOAD_AND_PUSH_PERMISSION_ALERT_TITLE</key>
+	<string>“%@” Would Like to Send You New Issues and Push Notifications</string>
+	<key>REMOTE_NOTIFICATION_CONTENT_DOWNLOAD_PERMISSION_ALERT_TITLE</key>
+	<string>“%@” Would Like to Send You New Issues</string>
+	<key>REMOTE_NOTIFICATION_ENTITLEMENT_NSERROR_DESCRIPTION</key>
+	<string>no valid '%@' entitlement string found for application</string>
+	<key>REMOTE_NOTIFICATION_NEED_IDENTITY_ALERT_BODY</key>
+	<string>“%@” notifications may include alerts, sounds and icon badges.</string>
+	<key>REMOTE_NOTIFICATION_NEED_IDENTITY_ALERT_DISMISS</key>
+	<string>ރަނގަޅު</string>
+	<key>REMOTE_NOTIFICATION_NEED_IDENTITY_ALERT_TITLE</key>
+	<string>Connect to iTunes to Use Push Notifications</string>
+	<key>REMOTE_NOTIFICATION_PERMISSION_ALERT_ALLOW</key>
+	<string>ރަނގަޅު</string>
+	<key>REMOTE_NOTIFICATION_PERMISSION_ALERT_BODY</key>
+	<string>Notifications may include alerts, sounds and icon badges. These can be configured in Settings.</string>
+	<key>REMOTE_NOTIFICATION_PERMISSION_ALERT_DENY</key>
+	<string>ހުއްދަ ނުދެން</string>
+	<key>REMOTE_NOTIFICATION_PERMISSION_ALERT_TITLE</key>
+	<string>“%@” Would Like to Send You Push Notifications</string>
+	<key>REMOTE_NOTIFICATION_SIMULATOR_NOT_SUPPORTED_NSERROR_DESCRIPTION</key>
+	<string>remote notifications are not supported in the simulator</string>
+	<key>REMOTE_NOTIFICATION_SYSTEMWIDE_ALERT_DISMISS</key>
+	<string>ކެންސަލް</string>
+	<key>REMOTE_NOTIFICATION_SYSTEMWIDE_ALERT_SETTINGS</key>
+	<string>ސެޓިންގްސް</string>
+	<key>REMOTE_NOTIFICATION_SYSTEMWIDE_ALERT_TITLE</key>
+	<string>Turn On Push Notifications to Allow “%@” to Receive Sounds, Alerts and Badges</string>
+	<key>REORDER_INFO_BODY</key>
+	<string>To rearrange icons, touch and hold any icon until it starts to wiggle, then drag icons to desired locations.
+Drag an icon to the far right to create additional Home screens.
+Press the Home button when finished.</string>
+	<key>REORDER_INFO_TEXT</key>
+	<string>Touch and hold an icon to enter reorder mode. Press the menu button to stop.</string>
+	<key>REORDER_INFO_TITLE</key>
+	<string>ހޯމް ސްކްރީން ބަދަލުކުރޭ</string>
+	<key>REPLY</key>
+	<string>ރައްދު</string>
+	<key>RESET_COMPLETE</key>
+	<string>ރިސެޓްވެއްޖެ</string>
+	<key>RESET_IN_PROGRESS</key>
+	<string>%@ ރިސެޓް ކުރަނީ</string>
+	<key>RESTORE_COMPLETE</key>
+	<string>ރިސްޓޯރ ފުރިހަމަވެއްޖެ</string>
+	<key>RESTORE_FAILED</key>
+	<string>ރިސްޓޯރ ނުކުރެވުނު</string>
+	<key>RESTORE_FAILURE_ALERT_BODY_TEXT</key>
+	<string>There was a problem during restore.  Please restart your %@ and try restoring again.</string>
+	<key>RESTORE_FAILURE_ALERT_RESTART_BUTTON_TITLE</key>
+	<string>އަލުންހުޅުވާ</string>
+	<key>RESTORE_IN_PROGRESS</key>
+	<string>ރިސްޓޯރ ކުރަނީ</string>
+	<key>RESTRICTED_ICON_LABEL</key>
+	<string>މަނާކުރެވިފަ</string>
+	<key>RESTRICTED_URL_BODY</key>
+	<string>This URL wasn't loaded:
+%@</string>
+	<key>RESTRICTED_URL_TITLE</key>
+	<string>Restricted URL</string>
+	<key>RINGER_VOLUME</key>
+	<string>ރިންގު އަޑު</string>
+	<key>SEARCHING</key>
+	<string>ހޯދަނީ...</string>
+	<key>SEARCH_BAR_PLACEHOLDER</key>
+	<string>ހޯދާ %@</string>
+	<key>SEARCH_SUBTITLE_SEPARATOR</key>
+	<string> — </string>
+	<key>SEARCH_TOP_HIT</key>
+	<string>އެންމެ ބޭނުންކުރާ</string>
+	<key>SEARCH_WEB</key>
+	<string>ވެބްސައިޓުން ހޯދާ</string>
+	<key>SEARCH_WIKIPEDIA</key>
+	<string>ވިކިޕީޑިއާއިން ހޯދާ</string>
+	<key>SEND</key>
+	<string>ފޮނުވާ</string>
+	<key>SERVICE_PROVIDER_LOCKED_LABEL</key>
+	<string>service provider personalisation</string>
+	<key>SERVICE_PROVIDER_LOCKED_SIM_STRING</key>
+	<string>Your phone is tied to SIM cards issued by a specific service provider.</string>
+	<key>SETTINGS</key>
+	<string>ސެޓިންގްސް</string>
+	<key>SETTING_LANGUAGE</key>
+	<string>ބަސް ބަދަލުވަނީ...</string>
+	<key>SIMULATOR_CARRIER_STRING</key>
+	<string>ޚިދުމަތްދޭފަރާތް</string>
+	<key>SLIDE_TO_ANSWER</key>
+	<string>ޖަވާބުދިނުމަށް ކަހާލާ</string>
+	<key>SLIDE_TO_CALL_BACK</key>
+	<string>އަލުންގުޅުމަށް ކަހާލާ</string>
+	<key>SLIDE_TO_CALL_BACK_SHORT</key>
+	<string>އަލުން ގުޅާ</string>
+	<key>SLIDE_TO_CANCEL</key>
+	<string>ކެންސަލްކުރުމަށް ކަހާލާ</string>
+	<key>SLIDE_TO_LISTEN</key>
+	<string>އަޑުއެހުމަށް ކަހާލާ</string>
+	<key>SMS_ALERT_TITLE</key>
+	<string>ކުރުމެސެޖު</string>
+	<key>SMS_READ</key>
+	<string>ކިޔާ</string>
+	<key>SOFTWARE_UPDATE_AVAILABLE_ALERT_ACTION</key>
+	<string>ތަފްސީލް</string>
+	<key>SOFTWARE_UPDATE_AVAILABLE_ALERT_BODY</key>
+	<string>%@ is now available.</string>
+	<key>SOFTWARE_UPDATE_AVAILABLE_ALERT_BODY_IPAD</key>
+	<string>%@ is now available for your iPad.</string>
+	<key>SOFTWARE_UPDATE_AVAILABLE_ALERT_BODY_IPHONE</key>
+	<string>%@ is now available for your iPhone.</string>
+	<key>SOFTWARE_UPDATE_AVAILABLE_ALERT_BODY_IPOD</key>
+	<string>%@ is now available for your iPod.</string>
+	<key>SOFTWARE_UPDATE_AVAILABLE_ALERT_CANCEL</key>
+	<string>ބަންދު</string>
+	<key>SOFTWARE_UPDATE_AVAILABLE_ALERT_TITLE</key>
+	<string>ސޮފްޓްވެއަރ އަޕްޑޭޓް</string>
+	<key>SOFTWARE_UPDATE_DOWNLOAD_FAILURE_ALERT_ACTION</key>
+	<string>ސެޓިންގްސް</string>
+	<key>SOFTWARE_UPDATE_DOWNLOAD_FAILURE_ALERT_BODY_GENERIC</key>
+	<string>An error occurred downloading %@.</string>
+	<key>SOFTWARE_UPDATE_DOWNLOAD_FAILURE_ALERT_CANCEL</key>
+	<string>ބަންދު</string>
+	<key>SOFTWARE_UPDATE_DOWNLOAD_FAILURE_ALERT_TITLE</key>
+	<string>ސޮްފްޓްވެއަރ އަޕްޑޭޓް ފެއިލްވެއްޖެ</string>
+	<key>SOFTWARE_UPDATE_DOWNLOAD_FAILURE_STORAGE_ALERT_ACTION</key>
+	<string>ސެޓިންގްސް</string>
+	<key>SOFTWARE_UPDATE_DOWNLOAD_FAILURE_STORAGE_ALERT_BODY</key>
+	<string>There is not enough available storage to download %@. You can manage your storage in Settings.</string>
+	<key>SOFTWARE_UPDATE_DOWNLOAD_FAILURE_STORAGE_ALERT_CANCEL</key>
+	<string>ބަންދު</string>
+	<key>SOFTWARE_UPDATE_DOWNLOAD_FAILURE_STORAGE_ALERT_TITLE</key>
+	<string>އަޕްޑޭޓް ޑައުންލޯޑެއް ނުކުރެވުނު</string>
+	<key>SOFTWARE_UPDATE_FORCED_INSTALL_ALERT_ACTION</key>
+	<string>އަޅާ</string>
+	<key>SOFTWARE_UPDATE_FORCED_INSTALL_ALERT_BODY_PLURAL</key>
+	<string>%@ will begin installing in %@ seconds. Your device will restart when installation is finished.</string>
+	<key>SOFTWARE_UPDATE_FORCED_INSTALL_ALERT_BODY_PLURAL_IPAD</key>
+	<string>%@ will begin installing in %@ seconds. Your iPad will restart when installation is finished.</string>
+	<key>SOFTWARE_UPDATE_FORCED_INSTALL_ALERT_BODY_PLURAL_IPHONE</key>
+	<string>%@ will begin installing in %@ seconds. Your iPhone will restart when installation is finished.</string>
+	<key>SOFTWARE_UPDATE_FORCED_INSTALL_ALERT_BODY_PLURAL_IPOD</key>
+	<string>%@ will begin installing in %@ seconds. Your iPod will restart when installation is finished.</string>
+	<key>SOFTWARE_UPDATE_FORCED_INSTALL_ALERT_BODY_SINGULAR</key>
+	<string>%@ will begin installing in %@ second. Your device will restart when installation is finished.</string>
+	<key>SOFTWARE_UPDATE_FORCED_INSTALL_ALERT_BODY_SINGULAR_IPAD</key>
+	<string>%@ will begin installing in %@ second. Your iPad will restart when installation is finished.</string>
+	<key>SOFTWARE_UPDATE_FORCED_INSTALL_ALERT_BODY_SINGULAR_IPHONE</key>
+	<string>%@ will begin installing in %@ second. Your iPhone will restart when installation is finished.</string>
+	<key>SOFTWARE_UPDATE_FORCED_INSTALL_ALERT_BODY_SINGULAR_IPOD</key>
+	<string>%@ will begin installing in %@ second. Your iPod will restart when installation is finished.</string>
+	<key>SOFTWARE_UPDATE_FORCED_INSTALL_ALERT_CANCEL</key>
+	<string>ފަހުން</string>
+	<key>SOFTWARE_UPDATE_FORCED_INSTALL_ALERT_LOCK_LABEL</key>
+	<string>މަޑުކުރުމަށް ކަހާލާ</string>
+	<key>SOFTWARE_UPDATE_FORCED_INSTALL_ALERT_LOCK_LABEL_SHORT</key>
+	<string>މަޑުކުރޭ</string>
+	<key>SOFTWARE_UPDATE_FORCED_INSTALL_ALERT_TITLE</key>
+	<string>ސޮފްޓްވެއަރ އަޕްޑޭޓް</string>
+	<key>SOFTWARE_UPDATE_INSTALL_FAILURE_ALERT_ACTION</key>
+	<string>ސެޓިންގްސް</string>
+	<key>SOFTWARE_UPDATE_INSTALL_FAILURE_ALERT_CANCEL</key>
+	<string>ބަންދު</string>
+	<key>SOFTWARE_UPDATE_INSTALL_FAILURE_ALERT_TITLE</key>
+	<string>ސޮފްޓްވެއަރ އަޕްޑޭޓް އަޅައެއް ނުދެވުނެވެ.</string>
+	<key>SOFTWARE_UPDATE_INSTALL_FAILURE_BATTERY_ALERT_BODY</key>
+	<string>Software update requires at least %@ battery, or to be connected to a power source.</string>
+	<key>SOFTWARE_UPDATE_INSTALL_FAILURE_GENERIC_ALERT_BODY</key>
+	<string>An error occurred installing %@.</string>
+	<key>SOFTWARE_UPDATE_INSTALL_FAILURE_NETWORK_ALERT_BODY</key>
+	<string>Software update requires a network connection.</string>
+	<key>SOFTWARE_UPDATE_INSTALL_FAILURE_STORAGE_ALERT_BODY</key>
+	<string>Software update requires at least %@ of available storage.</string>
+	<key>SOFTWARE_UPDATE_INSTALL_FAILURE_UNAVAILABLE_BODY</key>
+	<string>ސޮްފްޓްވެއަރ އަޕްޑޭޓެއް މިވަގުތަކުނެތެވެ. ފަހުން މަސައްކަތްކޮށްލާށެވެ.</string>
+	<key>SOFTWARE_UPDATE_INSTALL_FAILURE_UNAVAILABLE_TITLE</key>
+	<string>Software Update Unavailable</string>
+	<key>SOFTWARE_UPDATE_VERIFICATION_FAILED_ALERT_ACTION</key>
+	<string>އަދި މަސައްކަތްކޮށްލާ</string>
+	<key>SOFTWARE_UPDATE_VERIFICATION_FAILED_ALERT_BODY</key>
+	<string>%@ failed verification because you are no longer connected to the Internet.</string>
+	<key>SOFTWARE_UPDATE_VERIFICATION_FAILED_ALERT_CANCEL</key>
+	<string>ބަންދު</string>
+	<key>SOFTWARE_UPDATE_VERIFICATION_FAILED_ALERT_TITLE</key>
+	<string>Unable to Verify Update</string>
+	<key>SOFTWARE_UPDATE_VERIFYING_ALERT_BODY</key>
+	<string>Verifying update...</string>
+	<key>SOS_ONLY</key>
+	<string>SOS only</string>
+	<key>SOUND_EFFECTS_VOLUME</key>
+	<string>sound effects</string>
+	<key>SYNCING_ICON_LABEL</key>
+	<string>ސިންކުކުރަނީ…</string>
+	<key>SYNC_LOW_POWER</key>
+	<string>iTunes Sync will resume when charged.</string>
+	<key>Smart chip not allowed</key>
+	<string>މަނާ ސިމެއް</string>
+	<key>Smart chip not provisioned</key>
+	<string>މަނާ ސިމެއް</string>
+	<key>THERMAL_ALERT_STRING_IPAD</key>
+	<string>iPad needs to cool down
+before you can use it.</string>
+	<key>THERMAL_ALERT_STRING_IPHONE</key>
+	<string>iPhone needs to cool down
+before you can use it.</string>
+	<key>THERMAL_ALERT_STRING_IPOD</key>
+	<string>iPod needs to cool down
+before you can use it.</string>
+	<key>THERMAL_WARN_BODY_IPAD</key>
+	<string>iPad needs to cool down.</string>
+	<key>THERMAL_WARN_BODY_IPHONE</key>
+	<string>iPhone needs to cool down.</string>
+	<key>THERMAL_WARN_BODY_IPOD</key>
+	<string>iPod needs to cool down.</string>
+	<key>THERMAL_WARN_BUTTON_COOLDOWN</key>
+	<string>Cool Down</string>
+	<key>THERMAL_WARN_BUTTON_IGNORE</key>
+	<string>Use Anyway</string>
+	<key>THERMAL_WARN_TITLE</key>
+	<string>Temperature</string>
+	<key>TIMER_LOCK_LABEL</key>
+	<string>ޓައިމަރ ހުއްޓުވުމަށް ކަހާލާ</string>
+	<key>TODAY</key>
+	<string>މިއަދު</string>
+	<key>TOMORROW</key>
+	<string>މާދަމާ</string>
+	<key>TRY_AGAIN</key>
+	<string>އަދި މަސައްކަތްކޮށްލާ</string>
+	<key>TTY</key>
+	<string>ޓީޓިވައި</string>
+	<key>TTY (No SIM)</key>
+	<string>ޓީޓިވައި (ސިމެއްނެތް)1</string>
+	<key>UNHANDLED_URL_BODY</key>
+	<string>މި ޔޫއާރުއެލް ލޯޑެއްނުވެއެވެ:
+%@</string>
+	<key>UNHANDLED_URL_TITLE</key>
+	<string>ޔޫއާރުއެލް ކަމަކުނުދޭ</string>
+	<key>UNINSTALL_ICON_BODY</key>
+	<string>“%@” ފުހެލައިފިނަމަ ގުޅޭ އެހެން ޑާޓާ ވެސް ފުހެވޭނެ؟ </string>
+	<key>UNINSTALL_ICON_BODY_FOR_APP_WITH_DOCUMENTS_IN_CLOUD</key>
+	<string>“%@” ފުހެލައިފިނަމަ އޭގެ ހުރިހާ ޑާޓާއެއް މި %@ ފުހެވޭނެ އެވެ. އައިކްލައުޑްގައި އެއްވެސް ލިޔެކިޔުމެއް ނުވަތަ ޑާޓާއެއް ވާނަމަ އެ ނުފުހެވޭނެއެވެ. އަދި އެތަކެތި ސެޓިންގްސް ތެރެއިން ބެލެހެއްޓޭނެ އެވެ.</string>
+	<key>UNINSTALL_ICON_BODY_FOR_APP_WITH_DOCUMENTS_UPDATES_PENDING</key>
+	<string>އައިކްލައުޑް ގައިވާ ބައެއް ލިޔެކިޔުންތަކުގެ އަޕްޑޭޓް އެބަހުއްޓެވެ. “%@” މިހާރު ފުހެލައިފި ނަމަ މި އަޕްޑޭޓްތައް ގެއްލޭނެ އެވެ.</string>
+	<key>UNINSTALL_ICON_BODY_MULTIPLE</key>
+	<string>“%@” ފުހެލައިފިނަމަ %@ އާގުޅުންހުރި އެހެން ޑާޓާތައްވެސް ފުހެލެވޭނެ އެވެ.</string>
+	<key>UNINSTALL_ICON_CANCEL</key>
+	<string>ކެންސަލް</string>
+	<key>UNINSTALL_ICON_CONFIRM</key>
+	<string>ފުހެލާ</string>
+	<key>UNINSTALL_ICON_TITLE</key>
+	<string>ފުހެލާ “%@”</string>
+	<key>UNINSTALL_ICON_TITLE_FOR_APP_WITH_DOCUMENTS_IN_CLOUD</key>
+	<string>ފުހެލާ “%@”</string>
+	<key>UNINSTALL_ICON_TITLE_FOR_APP_WITH_DOCUMENTS_UPDATES_PENDING</key>
+	<string>ލިޔެކިޔުންތަކުގެ އަޕްޑޭޓް އެބަހުއްޓެވެ.</string>
+	<key>UNKNOWN</key>
+	<string>ނޭނގޭ</string>
+	<key>UNLOCK</key>
+	<string>ހުޅުވާ</string>
+	<key>USE_TTY_FOR_CALL</key>
+	<string>މި ކޯލަށް ޓީޓީވައި ބޭނުންކުރޭ؟</string>
+	<key>VIEW</key>
+	<string>ބެލުމަށް</string>
+	<key>VOD_OK</key>
+	<string>ރަނގަޅު</string>
+	<key>VOICEMAIL_AVAILABLE</key>
+	<string>އަޑުމެސެޖެއް އެބޮތް</string>
+	<key>VOLUME</key>
+	<string>އަޑުމެސެޖެއް</string>
+	<key>VOLUME_HUD_FORMAT</key>
+	<string>(%@)</string>
+	<key>WAITING_FOR_ACTIVATION_BODY</key>
+	<string>މިކަމަށް ވަގުތުކޮޅެއް ނަގާފާނެއެވެ.</string>
+	<key>WAITING_FOR_ACTIVATION_TITLE</key>
+	<string>އެކްޓިވޭޓް ކުރަންޖެހޭ</string>
+	<key>WAITING_ICON_LABEL</key>
+	<string>މަޑުކުރަނީ...</string>
+	<key>WAITING_RESPONSE_TITLE</key>
+	<string>ހުޅުވެނީ...</string>
+	<key>WAIT_FOR_UNLOCK</key>
+	<string>މަޑުކުރޭ</string>
+	<key>WARNING_DAYS_FORMAT</key>
+	<string>ތިޔަފަރާތަށް “%@” ބެލުމަށް ބާކީ އޮތީ %@ ދުވަހެވެ. އޭގެ ފަހުގައި ފުހެލެވޭނެ އެވެ.</string>
+	<key>WARNING_DAY_FORMAT</key>
+	<string>ތިޔަފަރާތަށް “%@” ބެލުމަށް ބާކީ އޮތީ %@ ދުވަހެވެ. އޭގެ ފަހުގައި ފުހެލެވޭނެ އެވެ.</string>
+	<key>WARNING_HOURS_FORMAT</key>
+	<string>ތިޔަފަރާތަށް “%@” ބެލުމަށް ބާކީ އޮތީ %@ ގަޑިއިރެވެ. އޭގެ ފަހުގައި ފުހެލެވޭނެ އެވެ.</string>
+	<key>WARNING_HOUR_FORMAT</key>
+	<string>ތިޔަފަރާތަށް “%@” ބެލުމަށް ބާކީ އޮތީ %@ ގަޑިއިރެވެ. އޭގެ ފަހުގައި ފުހެލެވޭނެ އެވެ.</string>
+	<key>WARNING_MINUTES_FORMAT</key>
+	<string>ތިޔަފަރާތަށް “%@” ބެލުމަށް ބާކީ އޮތީ %@ މިނެޓެވެ. އޭގެ ފަހުގައި ފުހެލެވޭނެ އެވެ.</string>
+	<key>WARNING_MINUTE_FORMAT</key>
+	<string>ތިޔަފަރާތަށް “%@” ބެލުމަށް ބާކީ އޮތީ %@ މިނެޓެވެ. އޭގެ ފަހުގައި ފުހެލެވޭނެ އެވެ.</string>
+	<key>WIFI_SYNC_LOW_POWER</key>
+	<string>ޗާޖުވުމުން އައިޓިއުންސް ވަައިފައި ސިންކް ކުރިޔަށްދާނެ އެވެ.</string>
+	<key>WLAN_SYNC_LOW_POWER</key>
+	<string>ޗާޖުވުމުން އައިޓިއުންސް ވަޔަލެސް ލޭން ސިންކް ކުރިޔަށްދާނެ އެވެ.</string>
+	<key>WRONG_PASSCODE</key>
+	<string>ސިއްރުނަމްބަރު ނުބައި</string>
+	<key>YES</key>
+	<string>އާން</string>
+	<key>YESTERDAY</key>
+	<string>އިއްޔެ</string>
+	<key>iPad</key>
+	<string>އައިޕެޑް</string>
+	<key>iPhone</key>
+	<string>އައިފޯނު</string>
+	<key>iPod</key>
+	<string>އައިޕޮޑް</string>
+	<key>kGprsIllegalMe</key>
+	<string>ގަވާއިދާ ޚިލާފު އެމްއީއެއް</string>
+	<key>kGprsIllegalMs</key>
+	<string>ޤަވާއިދާ ޚިލާފު އެމްއެސްއެއް</string>
+	<key>kGprsInvalidMobileClass</key>
+	<string>ބަލައިނުގަނެވޭ މޮބައިލް ކްލާސްއެއް</string>
+	<key>kGprsLocationAreaNotAllowed</key>
+	<string>ސަރަހައްދު ހުއްދައެއްނޫން</string>
+	<key>kGprsPdpAuthenticationFailure</key>
+	<string>ޕީޑީޕީ ހުއްދައެއްނުކުރެވުނު</string>
+	<key>kGprsPlmnNotAllowed</key>
+	<string>ޕީއެލްއެމްއެން ހުއްދައެއްނޫން</string>
+	<key>kGprsRoamingNotAllowedInLocationArea</key>
+	<string>ރޯމިން މިސަރަހައްދުގައި ހުއްދައެއްނޫނެވެ.</string>
+	<key>kGprsServiceOptionNotSubscribed</key>
+	<string>ތިޔަފަރާތުން ޑާޓާގެ ޚިދުމަތަށް އެދިފައެއްނުވެއެވެ.</string>
+	<key>kGprsServiceOptionNotSupported</key>
+	<string>ޚިދުމަތުގެ އޮޕްޝަން ބޭނުމެއްނުކުރެވެއެވެ.</string>
+	<key>kGprsServiceOptionTemporarilyOutOfOrder</key>
+	<string>ސެލިޔުލާ ޑާޓާ ނެޓްވޯކުގެ ޚިދުމަތް ވަގުތީގޮތުން ވަނީ މެދުކެނޑިފަ އެވެ.</string>
+	<key>kGprsServicesNotAllowed</key>
+	<string>ޖީޕީއާރުއެސް ހުއްދައެއްނޫން</string>
+</dict>
+</plist>
