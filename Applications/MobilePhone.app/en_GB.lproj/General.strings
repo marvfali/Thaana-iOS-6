@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>ADDRESS_BOOK</key>
+	<string>ނަންބަރުލިސްޓު</string>
+	<key>BLOCKED_CALLER</key>
+	<string>މަނާކުރެވިފަ</string>
+	<key>BLOCKED_CALLER_DETAIL</key>
+	<string>މަނާކުރެވިފައިވާ ނަންބަރެއް</string>
+	<key>CALL</key>
+	<string>ގުޅާ</string>
+	<key>CALL_HISTORY</key>
+	<string>ފަހުގެ</string>
+	<key>CANCEL</key>
+	<string>ކެންސަލް</string>
+	<key>DIALER</key>
+	<string>ފިތްބަރި</string>
+	<key>I_PHONE</key>
+	<string>އައިފޯނު</string>
+	<key>SPEAKER_PHONE</key>
+	<string>ސުޕީކަރު</string>
+	<key>SPEED_DIAL</key>
+	<string>އެންމެ ކަމުދިޔަ</string>
+	<key>THIS_PHONE</key>
+	<string>މަގޭ ނަންބަރު:</string>
+	<key>UNKNOWN_CALLER</key>
+	<string>ނޭނގޭ</string>
+	<key>UNKNOWN_CALLER_DETAIL</key>
+	<string>ނޭނގޭމީހެއް</string>
+	<key>UNKNOWN_LOCATION</key>
+	<string>ނޭނގޭ ތަނެއް</string>
+	<key>VOICEMAIL</key>
+	<string>އަޑުމެސެޖު</string>
+	<key>VOICEMAIL_CALLER</key>
+	<string>އަޑުމެސެޖު</string>
+</dict>
+</plist>
