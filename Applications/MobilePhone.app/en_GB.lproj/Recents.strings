@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>ALL_RECENT_CALLS</key>
+	<string>ފަހުގެ ކޯލްތައް</string>
+	<key>ALL_TOGGLE_TITLE</key>
+	<string>ހުރިހާ</string>
+	<key>CANCELLED</key>
+	<string>ކެންސަލްކުރި ކޯލްތައް</string>
+	<key>CANCELLED_SMALL</key>
+	<string>ކެންސަލްކުރި</string>
+	<key>CLEAR</key>
+	<string>ފުހެލާ</string>
+	<key>CLEAR_ALL</key>
+	<string>ފަހުގެބައި ފުހެލާ</string>
+	<key>CNAP_STRING_FORMAT</key>
+	<string>%@ %@</string>
+	<key>HOUR_UNIT</key>
+	<string>ގަޑިއިރު</string>
+	<key>HOUR_UNIT_PLURAL</key>
+	<string>ގަޑިއިރު</string>
+	<key>INCOMING</key>
+	<string>އަންނަ ކޯލެއް</string>
+	<key>INCOMING_CALLS</key>
+	<string>އަންނަ ކޯލްތައް</string>
+	<key>INCOMING_FACETIME</key>
+	<string>އަންނަ ފޭސްޓައިމް ކޯލެއް</string>
+	<key>MINUTE_UNIT</key>
+	<string>މިނެޓް</string>
+	<key>MINUTE_UNIT_ABB</key>
+	<string>މ</string>
+	<key>MINUTE_UNIT_PLURAL</key>
+	<string>މިނެޓް</string>
+	<key>MISSED</key>
+	<string>ބައްދަލުނުވި ކޯލް</string>
+	<key>MISSED_SMALL</key>
+	<string>ބައްދަލުނުވި</string>
+	<key>MISSED_TOGGLE_TITLE</key>
+	<string>ބައްދަލުނުވި</string>
+	<key>MULTI_CALLS_FORMAT</key>
+	<string>%i ގުޅުން</string>
+	<key>MULTI_MISSED_CALLS_FORMAT</key>
+	<string>%i ބައްދަލުނުވި ކޯލް</string>
+	<key>OUTGOING</key>
+	<string>ބޭރަށްދާ ކޯލް</string>
+	<key>OUTGOING_CALLS</key>
+	<string>ބޭރަށްދާ ކޯލް</string>
+	<key>OUTGOING_FACETIME</key>
+	<string>ބޭރަށްދާ ފޭސްޓައިމް</string>
+	<key>SECOND_UNIT</key>
+	<string>ސިކުންތު</string>
+	<key>SECOND_UNIT_PLURAL</key>
+	<string>ސިކުންތު</string>
+	<key>UNKNOWN_LABEL</key>
+	<string>ނޭނގޭ</string>
+</dict>
+</plist>
