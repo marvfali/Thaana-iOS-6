@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>ACCOUNTS</key>
+	<string>އެކައުންޓްތައް</string>
+	<key>ALL_NOTES</key>
+	<string>ހުރިހާ ނޯޓްތައް</string>
+	<key>ALL_NOTES_IN_ACCOUNT</key>
+	<string>ހުރިހާ %@</string>
+	<key>BACK</key>
+	<string>ފަހަތަށް</string>
+	<key>CANCEL</key>
+	<string>ކެންސަލް</string>
+	<key>DAYS_AGO_FORMAT</key>
+	<string>%@ ދުވަސް ކުރީގެ</string>
+	<key>DELETE_NOTE</key>
+	<string>ނޯޓް ފުހެލާ</string>
+	<key>DELIVERY_FAILED_MESSAGE</key>
+	<string>ތިޔަ ނޯޓް ފޮނުވައެއް ނުދެވުނު.</string>
+	<key>DELIVERY_FAILED_TITLE</key>
+	<string>ފޮނުވައެއް ނުދެވުނު.</string>
+	<key>DONE</key>
+	<string>ވެއްޖެ</string>
+	<key>EDIT</key>
+	<string>ބަދަލު</string>
+	<key>EMAIL</key>
+	<string>އީމެއިލް</string>
+	<key>INDEX_TITLE_FORMAT</key>
+	<string>ނޯޓްތައް (%@)</string>
+	<key>INDEX_TITLE_FORMAT_ALT</key>
+	<string>%@ ނޯޓްތައް</string>
+	<key>INDEX_TITLE_FORMAT_ALT_SINGULAR</key>
+	<string>1 ނޯޓް</string>
+	<key>LOCAL_NOTES_STORE</key>
+	<string>ނޯޓްތައް</string>
+	<key>NEW_NOTE</key>
+	<string>އާ ނޯޓެއް</string>
+	<key>NOTES</key>
+	<string>ނޯޓްތައް</string>
+	<key>NO_NOTES_CONTENT</key>
+	<string>ނޯޓެއް ނެތް</string>
+	<key>NO_SEARCH_RESULTS</key>
+	<string>ނަތީޖާއެއް ނެތް</string>
+	<key>OK</key>
+	<string>އާނ</string>
+	<key>PRINT</key>
+	<string>ޕްރިންޓް</string>
+	<key>SEARCH_CANCEL</key>
+	<string>ކެންސަލް</string>
+	<key>SEARCH_PLACEHOLDER</key>
+	<string>ހޯދާ</string>
+	<key>SHARING</key>
+	<string>ބައި</string>
+	<key>TODAY</key>
+	<string>މިއަދު</string>
+	<key>YESTERDAY</key>
+	<string>އިއްޔެ</string>
+</dict>
+</plist>
