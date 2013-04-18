@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>ACTIVATING</key>
+	<string>އެކްޓިވޭޓްކުރަނީ...</string>
+	<key>ADD_CALL</key>
+	<string>ކޯލް އިތުރުކުރޭ</string>
+	<key>AMBIGUOUS_CALL_LABEL</key>
+	<string>ކޯލްތަކެއް</string>
+	<key>BACK</key>
+	<string>ފަހަތައް</string>
+	<key>BROWSE_CONTACTS</key>
+	<string>ނަންބަރު ލިސްޓު ބްރައުޒްކުރޭ</string>
+	<key>CALLING</key>
+	<string>ގުޅަނީ…</string>
+	<key>CALLING_LABEL_FORMAT</key>
+	<string>%@އަށް ގުޅަނީ...</string>
+	<key>CALL_ENDED</key>
+	<string>ކޯލް ނިމިއްޖެ</string>
+	<key>CALL_ENDING</key>
+	<string>ކޯލް ނިމެނީ…</string>
+	<key>CONFERENCE</key>
+	<string>ކޮންފަރެންސް</string>
+	<key>CONFERENCE_NAME_SEPARATOR</key>
+	<string> ،</string>
+	<key>CONTACTS</key>
+	<string>ނަންބަރުލިސްޓް</string>
+	<key>CREATE_NEW_CALL</key>
+	<string>އާކޯލެއް ފަށާ</string>
+	<key>DELETE</key>
+	<string>ފުހެލާ</string>
+	<key>DIAL_ASSIST</key>
+	<string>ގުޅަން އެހީ</string>
+	<key>DIAL_LONG</key>
+	<string>ގަުޅާ “%@…”</string>
+	<key>DIAL_SHORT</key>
+	<string>ގުޅާ “%@”</string>
+	<key>EMERGENCY_CALL</key>
+	<string>އިމަޖެންސީގުޅުން</string>
+	<key>EMERGENCY_CALLS_ONLY</key>
+	<string>ހަމައެކަނި އިމަޖެންސީ ގުޅުމަށް</string>
+	<key>EMERGENCY_CALL_MODE</key>
+	<string>އިމަޖެންސީއަށް ގުޅާ ބައި</string>
+	<key>EMERGENCY_CALL_STATUS_FORMAT</key>
+	<string>އިމަޖެންސީ ގުޅުން — %@</string>
+	<key>END_ALL_CONFIRMATION</key>
+	<string>ގުޅުންތައް ކަނޑާލާ</string>
+	<key>END_CALL</key>
+	<string>ނިންމާލާ</string>
+	<key>END_CALL_CONFIRM</key>
+	<string>ނިންމާލާ</string>
+	<key>FACETIME_DISABLED</key>
+	<string>ފޭސްޓައިމް ބަންދު</string>
+	<key>FACETIME_DISABLED_MSG</key>
+	<string>ފޭސްޓައިމް ވަނީ ބަންދުކުރެވިފަ، ހުޅުވަން ބޭނުންތަ؟</string>
+	<key>FAKE_UNLOCK</key>
+	<string>ހުޅުވުމަށް ކަހާލާ</string>
+	<key>HIDE_KEYPAD</key>
+	<string>ފިތްބަރި ފޮރުވާ</string>
+	<key>HIDE_ROUTES</key>
+	<string>ސޯސްތައް ފޮރުވާ</string>
+	<key>HOLD</key>
+	<string>މަޑު</string>
+	<key>HOLD_LABEL</key>
+	<string>މަޑު</string>
+	<key>KEYPAD</key>
+	<string>ފިތްބަރި</string>
+	<key>MERGE_CALLS</key>
+	<string>ކޯލްތައް ގުޅުވާލާ</string>
+	<key>MUTE</key>
+	<string>އަޑުކަނޑާލާ</string>
+	<key>PRIVATE</key>
+	<string>އަމިއްލަ</string>
+	<key>ROUTE</key>
+	<string>އަަޑު ސޯސް</string>
+	<key>SEND</key>
+	<string>ފޮނުވާ</string>
+	<key>SPEAKER</key>
+	<string>ސްޕީކާ</string>
+	<key>SWAP_CALLS</key>
+	<string>ކޯލް ބަދަލު</string>
+	<key>TURN_ON</key>
+	<string>ހުޅުވާ</string>
+	<key>TWO_CONFERENCE_NAMES_FORMAT</key>
+	<string>%@ &amp; %@</string>
+</dict>
+</plist>
