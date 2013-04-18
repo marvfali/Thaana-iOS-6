@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>ADD</key>
+	<string>އިތުރު</string>
+	<key>CHOOSE_CONTACT_TO_ADD</key>
+	<string>އެންމެ ކަމުދާ ލިސްޓަށް ލުމަށް ނަންބަރެއް ޚިޔާރުކުރޭ</string>
+	<key>CHOOSE_NUMBER_TO_ADD</key>
+	<string>އެންމެ ކަމުދާ ލިސްޓަށްލުމަށް ނަންބަރު ޚިޔާރުކުރޭ</string>
+	<key>DONE</key>
+	<string>ވެއްޖެ|ބަދަލު</string>
+	<key>EDIT</key>
+	<string>ބަދަލު|ވެއްޖެ</string>
+	<key>REMOVE</key>
+	<string>ފުހެލާ</string>
+	<key>SELECT_CANCEL</key>
+	<string>ކެންސަލް</string>
+	<key>SELECT_FACETIME</key>
+	<string>ފޭސްޓައިމް</string>
+	<key>SELECT_FAVORITES_TYPE</key>
+	<string>%@ އެންމެ ކަމުދާ ލިސްޓަށް އިތުރުކުރޭ</string>
+	<key>SELECT_VOICE_CALL</key>
+	<string>އަޑުން ގުޅާ</string>
+</dict>
+</plist>
