@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>ALLOW</key>
+	<string>އާން</string>
+	<key>CONVERSATIONS</key>
+	<string>ދެކެވޭ ވާހަކަތައް</string>
+	<key>NOT_NOW</key>
+	<string>މިހާރަކު ނޫން</string>
+	<key>NO_EMAIL_ACCOUNT</key>
+	<string>އީމެއިލް ފޮނުވުމަށް އީމެއިލް ސެޓިން ހަދާ.</string>
+	<key>OK</key>
+	<string>ރަނގަޅު</string>
+	<key>READ_RECEIPTS_SETTINGS_CONFIRM_MESSAGE</key>
+	<string>ލިބޭ އައިމެސެޖުތައް ކިއުމުން ފޮނުވި މީހުންނަށް އިނގުނަދީ.</string>
+	<key>READ_RECEIPTS_SETTINGS_CONFIRM_TITLE</key>
+	<string>ކީ ކަމުގެ ލިޔުން ފޮނުވާ</string>
+	<key>SMSSearch</key>
+	<string>މެސެޖު</string>
+</dict>
+</plist>
